@@ -1,4 +1,4 @@
-- 👋 Hi, I am a software developer, retired.
+j- 👋 Hi, I am a software developer, retired.
 - 👀 I’m interested in cybersecurity.
 - 🌱 I’m currently learning kotlin for android development.
 - 💞️ I’m looking to collaborate on springboot web projects.
