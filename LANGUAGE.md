@@ -21,6 +21,7 @@
 | golang  | ---- | ---- | X | - | X | X |
 | grain  | ---- | ---- | X | - | X | - |
 | groovy  | ---- | [Here](GROOVY.md) | X | - | X | X |
+| icon  | ---- | ---- | - | - | X | X |
 | java  | ---- | [Here](JAVA.md) | X | - | X | X |
 | javascript  | ---- | ---- | - | - | X | X |
 | jruby  | ---- | ---- | X | - | X | X |
@@ -56,7 +57,7 @@
 | zig  | ---- | ---- | X | - | X | - |
 
 - *All purpose*
-    - | delphi | julia | golang | lua | perl | pony | ruby | rust | swift | 
+    - | delphi | golang | icon |julia | lua | perl | pony | ruby | rust | swift | 
 - *C Replacements*
     - | dlang | nim | vlang | zig |
 - *DOT Net*

@@ -12,8 +12,72 @@
 | [v2.0.0](https://github.com/bearddan2000/java-web-gradle-spring-thyme-dropwizard-github) | | |
 | [v3.0.0](https://github.com/bearddan2000/java-web-gradle-spring-thyme-dropwizard-postgres-github) |
 
+## Build tools 
+[Details](BUILD.md)
+
+| [ant](https://github.com/bearddan2000?tab=repositories&q=ant&type=&language=&sort=) 
+| [bazel](https://github.com/bearddan2000?tab=repositories&q=bazel&type=&language=&sort=)
+| [bloop](https://github.com/bearddan2000?tab=repositories&q=bloop&type=&language=&sort=) 
+| [buckbuild](https://github.com/bearddan2000?tab=repositories&q=buck&type=&language=&sort=) 
+| [buildr](https://github.com/bearddan2000?tab=repositories&q=buildr&type=&language=&sort=)
+| [cargo](https://github.com/bearddan2000?tab=repositories&q=rust&type=&language=&sort=) 
+| [cmake](https://github.com/bearddan2000?tab=repositories&q=cmake&type=&language=&sort=)
+| [composer](https://github.com/bearddan2000?tab=repositories&q=php&type=&language=&sort=) 
+| [gradle](https://github.com/bearddan2000?tab=repositories&q=gradle&type=&language=&sort=) 
+| [haxe](https://github.com/bearddan2000?tab=repositories&q=haxe&type=&language=&sort=) 
+| [make](https://github.com/bearddan2000?tab=repositories&q=make&type=&language=&sort=) 
+| [maven](https://github.com/bearddan2000?tab=repositories&q=maven&type=&language=&sort=) 
+| [millbuild](https://github.com/bearddan2000?tab=repositories&q=mill&type=&language=&sort=)
+| [nget](https://github.com/bearddan2000?tab=repositories&q=dotnet&type=&language=&sort=) 
+| [ninja](https://github.com/bearddan2000?tab=repositories&q=ninja&type=&language=&sort=)
+| [npm](https://github.com/bearddan2000?tab=repositories&q=nodejs&type=&language=&sort=) 
+| [pants](https://github.com/bearddan2000?tab=repositories&q=pants&type=&language=&sort=)
+| [pip](https://github.com/bearddan2000?tab=repositories&q=python&type=&language=&sort=)  
+| [sbt](https://github.com/bearddan2000?tab=repositories&q=sbt&type=&language=&sort=) |
+
+## Databases 
+[Details](DATABASE.md)
+
+| [cassandra](https://github.com/bearddan2000?tab=repositories&q=cassandra&type=&language=&sort=)
+| [couchdb](https://github.com/bearddan2000?tab=repositories&q=couchdb&type=&language=&sort=)
+| [cockroachdb](https://github.com/bearddan2000?tab=repositories&q=cockroach&type=&language=&sort=)
+| [db2](https://github.com/bearddan2000?tab=repositories&q=db2&type=&language=&sort=)
+| [derby](https://github.com/bearddan2000?tab=repositories&q=derby&type=&language=&sort=)
+| [elasticsearch](https://github.com/bearddan2000?tab=repositories&q=elasticsearch&type=&language=&sort=)
+| [keydb](https://github.com/bearddan2000?tab=repositories&q=keydb&type=&language=&sort=)
+| [h2](https://github.com/bearddan2000?tab=repositories&q=h2&type=&language=&sort=)
+| [hsql](https://github.com/bearddan2000?tab=repositories&q=hsql&type=&language=&sort=)
+| [memcache](https://github.com/bearddan2000?tab=repositories&q=memcache&type=&language=&sort=)
+| [mongodb](https://github.com/bearddan2000?tab=repositories&q=mongo&type=&language=&sort=)
+| [mysql](https://github.com/bearddan2000?tab=repositories&q=mysql&type=&language=&sort=)
+| [neo4j](https://github.com/bearddan2000?tab=repositories&q=neo4j&type=&language=&sort=)
+| [oracle](https://github.com/bearddan2000?tab=repositories&q=oracle&type=&language=&sort=)
+| [orientdb](https://github.com/bearddan2000?tab=repositories&q=orient&type=&language=&sort=)
+| [postgres](https://github.com/bearddan2000?tab=repositories&q=postgres&type=&language=&sort=)
+| [questdb](https://github.com/bearddan2000?tab=repositories&q=quest&type=&language=&sort=)
+| [redis](https://github.com/bearddan2000?tab=repositories&q=redis&type=&language=&sort=)
+| [rocksdb](https://github.com/bearddan2000?tab=repositories&q=rocks&type=&language=&sort=)
+| [solr](https://github.com/bearddan2000?tab=repositories&q=solr&type=&language=&sort=)
+| [sql server](https://github.com/bearddan2000?tab=repositories&q=sqlserver&type=&language=&sort=)
+| [surreal](https://github.com/bearddan2000?tab=repositories&q=surreal&type=&language=&sort=)
+| [sybase](https://github.com/bearddan2000?tab=repositories&q=sybase&type=&language=&sort=)
+|
+
 ## Desktop applications
-| blender | chrome web browser | codeblocks | dbeaver | firefox web browser | gimp |
+| [blender](https://github.com/bearddan2000?tab=repositories&q=blender&type=&language=&sort=)
+| [chrome web browser](https://github.com/bearddan2000?tab=repositories&q=chrome&type=&language=&sort=) 
+| [clion](https://github.com/bearddan2000?tab=repositories&q=clion&type=&language=&sort=)
+| [codeblocks](https://github.com/bearddan2000?tab=repositories&q=codeblocks&type=&language=&sort=)
+| [dbeaver](https://github.com/bearddan2000?tab=repositories&q=dbeaver&type=&language=&sort=)
+| [firefox web browser](https://github.com/bearddan2000?tab=repositories&q=firefox&type=&language=&sort=) 
+| [gimp](https://github.com/bearddan2000?tab=repositories&q=gimp&type=&language=&sort=)
+| [helix](https://github.com/bearddan2000?tab=repositories&q=helix&type=&language=&sort=)
+| [intellij](https://github.com/bearddan2000?tab=repositories&q=intellij&type=&language=&sort=)
+| [lazarus](https://github.com/bearddan2000?tab=repositories&q=lazarus&type=&language=&sort=)
+| [netbeans](https://github.com/bearddan2000?tab=repositories&q=netbeans&type=&language=&sort=)
+| [neovim](https://github.com/bearddan2000?tab=repositories&q=neovim&type=&language=&sort=)
+| [putty](https://github.com/bearddan2000?tab=repositories&q=putty&type=&language=&sort=)
+| [rubymine](https://github.com/bearddan2000?tab=repositories&q=rubymine&type=&language=&sort=)
 
 ## Languages 
 [Details](LANGUAGE.md)
@@ -38,6 +102,7 @@
 | [golang](https://github.com/bearddan2000?tab=repositories&q=golang&type=&language=&sort=)
 | [grain](https://github.com/bearddan2000?tab=repositories&q=grain&type=&language=&sort=)
 | [groovy](https://github.com/bearddan2000?tab=repositories&q=groovy&type=&language=&sort=)
+| [icon](https://github.com/bearddan2000?tab=repositories&q=icon&type=&language=&sort=)
 | [java](https://github.com/bearddan2000?tab=repositories&q=java&type=&language=&sort=)
 | [javascript](https://github.com/bearddan2000?tab=repositories&q=javascript&type=&language=&sort=)
 | [jruby](https://github.com/bearddan2000?tab=repositories&q=jruby&type=&language=&sort=)
@@ -71,31 +136,3 @@
 | [vbnet](https://github.com/bearddan2000?tab=repositories&q=vbnet&type=&language=&sort=)
 | [vlang](https://github.com/bearddan2000?tab=repositories&q=vlang&type=&language=&sort=)
 | [zig](https://github.com/bearddan2000?tab=repositories&q=zig&type=&language=&sort=)
-
-## Build systems
-- *All purpose*
-    - | bazel | buck | gradle | haxe | make | ninja | pants |
-- *JVM*
-    - | buildr | maven | mill | sbt |
-### Build system packager
-- | cmake | bloop |
-### Build system package manager
-- | ant | cargo | composer | nget | npm | pip |
-
-## Databases
-- *Rational*
-    - | cockroachdb | db2 | mysql | oracle | postgres | questdb |  sql server | sybase |
-- *Graph*
-    - | neo4j |
-- *Hybrids*
-    - | orientdb | surreal |
-- *Key Value*
-    - | keydb | memcache | redis | rocksdb |
-- *In Memory*
-    - | derby | h2 | hsql |
-- *No Sql*
-    - | cassandra | couchdb | mongodb |
-- *Text Search*
-    - | elasticsearch | solr |
-### Databases coming soon
-- | aragon | cosmosdb | couchbase | clickhouse | dolt |gemfire | hazelcast | hbase | mindsdb | presto | prism | sap hana | scylla | supabase | vector types |
