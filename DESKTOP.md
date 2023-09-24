@@ -3,7 +3,7 @@
 Application versions vary from each install technique. These applications are sandboxed in docker containers. 
 
 |Name|alpine|archlinux|ubuntu|nix|
-|----|---|---|---|
+|----|---|---|---|---|
 | blender | x | - | x | - |
 | chrome | - | - | x | - |
 | clion | - | - | x | - |
