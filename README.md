@@ -64,16 +64,20 @@
 |
 
 ## Desktop applications
+[Details](DESKTOP.md)
+
 | [blender](https://github.com/bearddan2000?tab=repositories&q=blender&type=&language=&sort=)
-| [chrome web browser](https://github.com/bearddan2000?tab=repositories&q=chrome&type=&language=&sort=) 
+| [chrome](https://github.com/bearddan2000?tab=repositories&q=chrome&type=&language=&sort=) 
 | [clion](https://github.com/bearddan2000?tab=repositories&q=clion&type=&language=&sort=)
 | [codeblocks](https://github.com/bearddan2000?tab=repositories&q=codeblocks&type=&language=&sort=)
 | [dbeaver](https://github.com/bearddan2000?tab=repositories&q=dbeaver&type=&language=&sort=)
-| [firefox web browser](https://github.com/bearddan2000?tab=repositories&q=firefox&type=&language=&sort=) 
+| [eclipse](https://github.com/bearddan2000?tab=repositories&q=eclipse&type=&language=&sort=)
+| [firefox](https://github.com/bearddan2000?tab=repositories&q=firefox&type=&language=&sort=) 
 | [gimp](https://github.com/bearddan2000?tab=repositories&q=gimp&type=&language=&sort=)
 | [helix](https://github.com/bearddan2000?tab=repositories&q=helix&type=&language=&sort=)
 | [intellij](https://github.com/bearddan2000?tab=repositories&q=intellij&type=&language=&sort=)
 | [lazarus](https://github.com/bearddan2000?tab=repositories&q=lazarus&type=&language=&sort=)
+| [monodevelop](https://github.com/bearddan2000?tab=repositories&q=monodevelop&type=&language=&sort=)
 | [netbeans](https://github.com/bearddan2000?tab=repositories&q=netbeans&type=&language=&sort=)
 | [neovim](https://github.com/bearddan2000?tab=repositories&q=neovim&type=&language=&sort=)
 | [putty](https://github.com/bearddan2000?tab=repositories&q=putty&type=&language=&sort=)
