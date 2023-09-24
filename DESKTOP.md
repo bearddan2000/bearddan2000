@@ -23,15 +23,21 @@ Application versions vary from each install technique. These applications are sa
 
 *3d*
 - | blender |
+
 *Database*
 - | dbeaver |
+
 *Graphics*
 - | gimp |
+
 *Ide*
 - | clion | codeblocks | eclipse | intellij | lazazurs | monodevelop | netbeans | rubymine |
-* Remote access*
+
+*Remote access*
 - | putty |
+
 *Text editor*
 - | helix | neovim |
+
 *Web browser*
 - | chrome | firefox |
