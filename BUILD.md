@@ -2,10 +2,12 @@
 
 ## Build systems
 - *All purpose*
-    - | bazel | buck | gradle | haxe | make | ninja | pants |
+    - | bazel | blaze | buckbuild | gradle | haxe | make | ninja | pants | please |
+- *C/Cpp*
+    - | make | ninja |
 - *JVM*
     - | buildr | maven | mill | sbt |
 ### Build system packager
-- | cmake | bloop |
+- | bloop | cmake | qmake |
 ### Build system package manager
 - | ant | cargo | composer | nget | npm | pip |

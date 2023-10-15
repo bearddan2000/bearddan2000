@@ -17,6 +17,7 @@
 
 | [ant](https://github.com/bearddan2000?tab=repositories&q=ant&type=&language=&sort=) 
 | [bazel](https://github.com/bearddan2000?tab=repositories&q=bazel&type=&language=&sort=)
+| [blade](https://github.com/bearddan2000?tab=repositories&q=blade&type=&language=&sort=) 
 | [bloop](https://github.com/bearddan2000?tab=repositories&q=bloop&type=&language=&sort=) 
 | [buckbuild](https://github.com/bearddan2000?tab=repositories&q=buck&type=&language=&sort=) 
 | [buildr](https://github.com/bearddan2000?tab=repositories&q=buildr&type=&language=&sort=)
@@ -24,6 +25,7 @@
 | [cmake](https://github.com/bearddan2000?tab=repositories&q=cmake&type=&language=&sort=)
 | [composer](https://github.com/bearddan2000?tab=repositories&q=php&type=&language=&sort=) 
 | [gradle](https://github.com/bearddan2000?tab=repositories&q=gradle&type=&language=&sort=) 
+| [grape](https://github.com/bearddan2000?tab=repositories&q=grape&type=&language=&sort=) 
 | [haxe](https://github.com/bearddan2000?tab=repositories&q=haxe&type=&language=&sort=) 
 | [make](https://github.com/bearddan2000?tab=repositories&q=make&type=&language=&sort=) 
 | [maven](https://github.com/bearddan2000?tab=repositories&q=maven&type=&language=&sort=) 
@@ -32,7 +34,9 @@
 | [ninja](https://github.com/bearddan2000?tab=repositories&q=ninja&type=&language=&sort=)
 | [npm](https://github.com/bearddan2000?tab=repositories&q=nodejs&type=&language=&sort=) 
 | [pants](https://github.com/bearddan2000?tab=repositories&q=pants&type=&language=&sort=)
-| [pip](https://github.com/bearddan2000?tab=repositories&q=python&type=&language=&sort=)  
+| [pip](https://github.com/bearddan2000?tab=repositories&q=python&type=&language=&sort=) 
+| [please](https://github.com/bearddan2000?tab=repositories&q=please&type=&language=&sort=) 
+| [qmake](https://github.com/bearddan2000?tab=repositories&q=qmake&type=&language=&sort=) 
 | [sbt](https://github.com/bearddan2000?tab=repositories&q=sbt&type=&language=&sort=) |
 
 ## Databases 

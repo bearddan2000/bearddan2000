@@ -6,14 +6,11 @@ platformable, it runs on a virtual environment independent
 of the OS.
 
 ## Build system
-- | bazel | gradle | mill | maven |
-
-## Build system coming soon
-- | grape | maven |
+- | bazel | gradle | grape | mill | maven |
 
 ## Databases in this repo
 - *Rational*
-    - | cockroachdb | mysql | postgres | sql server |
+    - | cockroachdb | db2 | mysql | postgres | sql server | sybase |
 - *Graph*
     - | neo4j |
 - *Hybrids*
@@ -30,7 +27,7 @@ of the OS.
     - | elasticsearch | solr |
 
 ## Databases coming soon
-- |  cassandra | couchdb | db2 | oracle | sybase |
+- |  cassandra | couchdb | oracle |
 
 ## Frameworks in this repo
 - | spring |

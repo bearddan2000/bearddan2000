@@ -2,6 +2,9 @@
 - embedded pike
 - [Pony ORM](https://docs.ponyorm.org/firststeps.html)
 
+## Build system
+- | bazel | blade | please |
+
 ## Frameworks
 | bottle | cherrypy | dash | falcon | fastapi | flask | kivy | pyramid | tornado | turbogears |
 
