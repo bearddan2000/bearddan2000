@@ -29,6 +29,7 @@
 | [haxe](https://github.com/bearddan2000?tab=repositories&q=haxe&type=&language=&sort=) 
 | [make](https://github.com/bearddan2000?tab=repositories&q=make&type=&language=&sort=) 
 | [maven](https://github.com/bearddan2000?tab=repositories&q=maven&type=&language=&sort=) 
+| [meson](https://github.com/bearddan2000?tab=repositories&q=meson&type=&language=&sort=) 
 | [millbuild](https://github.com/bearddan2000?tab=repositories&q=mill&type=&language=&sort=)
 | [nget](https://github.com/bearddan2000?tab=repositories&q=dotnet&type=&language=&sort=) 
 | [ninja](https://github.com/bearddan2000?tab=repositories&q=ninja&type=&language=&sort=)
@@ -37,7 +38,8 @@
 | [pip](https://github.com/bearddan2000?tab=repositories&q=python&type=&language=&sort=) 
 | [please](https://github.com/bearddan2000?tab=repositories&q=please&type=&language=&sort=) 
 | [qmake](https://github.com/bearddan2000?tab=repositories&q=qmake&type=&language=&sort=) 
-| [sbt](https://github.com/bearddan2000?tab=repositories&q=sbt&type=&language=&sort=) |
+| [sbt](https://github.com/bearddan2000?tab=repositories&q=sbt&type=&language=&sort=) 
+|
 
 ## Databases 
 [Details](DATABASE.md)
@@ -47,6 +49,7 @@
 | [cockroachdb](https://github.com/bearddan2000?tab=repositories&q=cockroach&type=&language=&sort=)
 | [db2](https://github.com/bearddan2000?tab=repositories&q=db2&type=&language=&sort=)
 | [derby](https://github.com/bearddan2000?tab=repositories&q=derby&type=&language=&sort=)
+| [dolt](https://github.com/bearddan2000?tab=repositories&q=dolt&type=&language=&sort=)
 | [elasticsearch](https://github.com/bearddan2000?tab=repositories&q=elasticsearch&type=&language=&sort=)
 | [keydb](https://github.com/bearddan2000?tab=repositories&q=keydb&type=&language=&sort=)
 | [h2](https://github.com/bearddan2000?tab=repositories&q=h2&type=&language=&sort=)
@@ -85,7 +88,8 @@
 | [netbeans](https://github.com/bearddan2000?tab=repositories&q=netbeans&type=&language=&sort=)
 | [neovim](https://github.com/bearddan2000?tab=repositories&q=neovim&type=&language=&sort=)
 | [putty](https://github.com/bearddan2000?tab=repositories&q=putty&type=&language=&sort=)
-| [rubymine](https://github.com/bearddan2000?tab=repositories&q=rubymine&type=&language=&sort=)
+| [rubymine](https://github.com/bearddan2000?tab=repositories&q=rubymine&type=&language=&sort=) 
+|
 
 ## Languages 
 [Details](LANGUAGE.md)
@@ -144,3 +148,4 @@
 | [vbnet](https://github.com/bearddan2000?tab=repositories&q=vbnet&type=&language=&sort=)
 | [vlang](https://github.com/bearddan2000?tab=repositories&q=vlang&type=&language=&sort=)
 | [zig](https://github.com/bearddan2000?tab=repositories&q=zig&type=&language=&sort=)
+|

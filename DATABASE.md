@@ -1,6 +1,6 @@
 # Databases
 - *Rational*
-    - | cockroachdb | db2 | mysql | oracle | postgres | questdb |  sql server | sybase |
+    - | cockroachdb | db2 | dolt | mysql | oracle | postgres | questdb |  sql server | sybase |
 - *Graph*
     - | neo4j |
 - *Hybrids*
@@ -15,4 +15,4 @@
     - | elasticsearch | solr |
     
 ### Databases coming soon
-- | aragon | cosmosdb | couchbase | clickhouse | dolt |gemfire | hazelcast | hbase | mindsdb | presto | prism | sap hana | scylla | supabase | vector types |
+- | aragon | cosmosdb | couchbase | clickhouse | gemfire | hazelcast | hbase | mindsdb | presto | prism | sap hana | scylla | supabase | vector types |
