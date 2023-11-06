@@ -6,8 +6,8 @@
 - *C/Cpp*
     - | make | ninja |
 - *JVM*
-    - | buildr | grape | maven | mill | sbt |
+    - | buildr | graalvm | grape | maven | mill | sbt |
 ### Build system packager
-- | bloop | cmake | meson | qmake |
+- | bloop | bundle | cmake | meson | qmake |
 ### Build system package manager
-- | ant | cargo | composer | nget | npm | pip |
+- | ant | cargo | composer | gem | nget | npm | pip | poetry |

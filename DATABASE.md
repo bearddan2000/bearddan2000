@@ -15,4 +15,4 @@
     - | elasticsearch | solr |
     
 ### Databases coming soon
-- | aragon | cosmosdb | couchbase | clickhouse | gemfire | hazelcast | hbase | mindsdb | presto | prism | sap hana | scylla | supabase | vector types |
+- | aragon | cosmosdb | couchbase | clickhouse | gemfire | hazelcast | hbase | mindsdb | presto | sap hana | scylla | supabase | vector types |

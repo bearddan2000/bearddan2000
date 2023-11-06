@@ -1,2 +1,3 @@
-## TODO
-- web framework sinatra
+## Web framework 
+- sinatra
+- rails

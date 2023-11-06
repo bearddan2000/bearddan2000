@@ -11,6 +11,7 @@
 | csharp  | ---- | ---- | X | - | X | X |
 | dart  | ---- | ---- | - | - | X | X |
 | delphi  | ---- | ---- | X | - | X | X |
+| deno  | ---- | ---- | - | - | X | X |
 | dlang  | ---- | ---- | X | - | X | - |
 | elixir  | ---- | ---- | X | X | - | X |
 | erlang | ---- | ---- | X | X | - | - |
@@ -23,7 +24,7 @@
 | groovy  | ---- | [Here](GROOVY.md) | X | - | X | X |
 | icon  | ---- | ---- | - | - | X | X |
 | java  | ---- | [Here](JAVA.md) | X | - | X | X |
-| javascript  | ---- | ---- | - | - | X | X |
+| javascript  | ---- | [Here](JAVASCRIPT.md) | - | - | X | X |
 | jruby  | ---- | ---- | X | - | X | X |
 | jython  | ---- | ---- | X | - | X | X |
 | julia  | ---- | ---- | X | - | X | - |
@@ -33,7 +34,7 @@
 | lobster  | ---- | ---- | X | - | X | - |
 | lua  | ---- | ---- | X | - | X | X |
 | nim  | ---- | ---- | X | - | X | - |
-| nodejs  | ---- | ---- | - | - | X | X |
+| nodejs  | ---- | [Here](NODE.md) | - | - | X | X |
 | ocaml  | ---- | ---- | X | X | - | X |
 | octave  | ---- | [Here](OCTAVE.md) | - | - | X | - |
 | odin  | ---- | ---- | - | - | X | - |
