@@ -38,6 +38,7 @@
 | [ninja](https://github.com/bearddan2000?tab=repositories&q=ninja&type=&language=&sort=)
 | [npm](https://github.com/bearddan2000?tab=repositories&q=nodejs&type=&language=&sort=) 
 | [pants](https://github.com/bearddan2000?tab=repositories&q=pants&type=&language=&sort=)
+| [pex](https://github.com/bearddan2000?tab=repositories&q=pex&type=&language=&sort=)
 | [pip](https://github.com/bearddan2000?tab=repositories&q=python&type=&language=&sort=) 
 | [please](https://github.com/bearddan2000?tab=repositories&q=please&type=&language=&sort=) 
 | [poetry](https://github.com/bearddan2000?tab=repositories&q=poetry&type=&language=&sort=) 
@@ -49,14 +50,18 @@
 [Details](DATABASE.md)
 
 | [cassandra](https://github.com/bearddan2000?tab=repositories&q=cassandra&type=&language=&sort=)
+| [couchbase](https://github.com/bearddan2000?tab=repositories&q=couchbase&type=&language=&sort=)
 | [couchdb](https://github.com/bearddan2000?tab=repositories&q=couchdb&type=&language=&sort=)
 | [cockroachdb](https://github.com/bearddan2000?tab=repositories&q=cockroach&type=&language=&sort=)
 | [db2](https://github.com/bearddan2000?tab=repositories&q=db2&type=&language=&sort=)
 | [derby](https://github.com/bearddan2000?tab=repositories&q=derby&type=&language=&sort=)
 | [dolt](https://github.com/bearddan2000?tab=repositories&q=dolt&type=&language=&sort=)
+| [dynamodb](https://github.com/bearddan2000?tab=repositories&q=dynamo&type=&language=&sort=)
 | [elasticsearch](https://github.com/bearddan2000?tab=repositories&q=elasticsearch&type=&language=&sort=)
 | [keydb](https://github.com/bearddan2000?tab=repositories&q=keydb&type=&language=&sort=)
+| [gemfire](https://github.com/bearddan2000?tab=repositories&q=gemfire&type=&language=&sort=)
 | [h2](https://github.com/bearddan2000?tab=repositories&q=h2&type=&language=&sort=)
+| [hbase](https://github.com/bearddan2000?tab=repositories&q=hbase&type=&language=&sort=)
 | [hsql](https://github.com/bearddan2000?tab=repositories&q=hsql&type=&language=&sort=)
 | [memcache](https://github.com/bearddan2000?tab=repositories&q=memcache&type=&language=&sort=)
 | [mongodb](https://github.com/bearddan2000?tab=repositories&q=mongo&type=&language=&sort=)
@@ -64,6 +69,7 @@
 | [neo4j](https://github.com/bearddan2000?tab=repositories&q=neo4j&type=&language=&sort=)
 | [oracle](https://github.com/bearddan2000?tab=repositories&q=oracle&type=&language=&sort=)
 | [orientdb](https://github.com/bearddan2000?tab=repositories&q=orient&type=&language=&sort=)
+| [planetscale](https://github.com/bearddan2000?tab=repositories&q=planetscale&type=&language=&sort=)
 | [postgres](https://github.com/bearddan2000?tab=repositories&q=postgres&type=&language=&sort=)
 | [questdb](https://github.com/bearddan2000?tab=repositories&q=quest&type=&language=&sort=)
 | [redis](https://github.com/bearddan2000?tab=repositories&q=redis&type=&language=&sort=)
@@ -153,4 +159,20 @@
 | [vbnet](https://github.com/bearddan2000?tab=repositories&q=vbnet&type=&language=&sort=)
 | [vlang](https://github.com/bearddan2000?tab=repositories&q=vlang&type=&language=&sort=)
 | [zig](https://github.com/bearddan2000?tab=repositories&q=zig&type=&language=&sort=)
+|
+
+## Polyglot projects
+- Java & Node
+    - [JHipster](https://github.com/bearddan2000?tab=repositories&q=jhipster&type=&language=&sort=)
+- HTMX
+    - [Python](https://github.com/bearddan2000?tab=repositories&q=htmx-python&type=&language=&sort=)
+    - [Java](https://github.com/bearddan2000?tab=repositories&q=htmx-java&type=&language=&sort=)
+
+## Web applications
+| [adminer](https://github.com/bearddan2000?tab=repositories&q=adminer&type=&language=&sort=)
+| [druid](https://github.com/bearddan2000?tab=repositories&q=druid&type=&language=&sort=)
+| [jaeger](https://github.com/bearddan2000?tab=repositories&q=jaeger&type=&language=&sort=)
+| [grafana](https://github.com/bearddan2000?tab=repositories&q=grafana&type=&language=&sort=)
+| [prometheus](https://github.com/bearddan2000?tab=repositories&q=prometheus&type=&language=&sort=)
+| [zipkin](https://github.com/bearddan2000?tab=repositories&q=zipkin&type=&language=&sort=)
 |
