@@ -18,6 +18,7 @@
 | haskell | ---- | ---- | X | X | - | - |
 | flutter  | ---- | ---- | - | - | X | X |
 | fortran  | ---- | ---- | - | - | X | - |
+| futhark  | ---- | ---- | - | X | - | - |
 | gleam  | ---- | [Here](GLEAM.md) | X | X | - | X |
 | golang  | ---- | ---- | X | - | X | X |
 | grain  | ---- | ---- | X | - | X | - |

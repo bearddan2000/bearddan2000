@@ -29,6 +29,7 @@ of the OS.
 |
 - *Graph*
     - | [aragondb](https://github.com/bearddan2000?tab=repositories&q=java-aragondb&type=&language=&sort=) |
+    [dgraph](https://github.com/bearddan2000?tab=repositories&q=java-dgraph&type=&language=&sort=) |
         [neo4j](https://github.com/bearddan2000?tab=repositories&q=java-neo4j&type=&language=&sort=)  |
 - *Hybrids*
     - | [orientdb](https://github.com/bearddan2000?tab=repositories&q=java-orient&type=&language=&sort=) |
@@ -37,15 +38,15 @@ of the OS.
 - *In Memory*
     - | [derby](https://github.com/bearddan2000?tab=repositories&q=java-derby&type=&language=&sort=) | [h2](https://github.com/bearddan2000?tab=repositories&q=java-h2&type=&language=&sort=) | [hsql](https://github.com/bearddan2000?tab=repositories&q=java-hsql&type=&language=&sort=) |
 - *No Sql*
-    - | [cassandra](https://github.com/bearddan2000?tab=repositories&q=java-cassandra&type=&language=&sort=) | [couchbase](https://github.com/bearddan2000?tab=repositories&q=java-couchbase&type=&language=&sort=) | [couchdb](https://github.com/bearddan2000?tab=repositories&q=java-couchdb&type=&language=&sort=) | [mongodb](https://github.com/bearddan2000?tab=repositories&q=java-mongo&type=&language=&sort=) |
+    - | [cassandra](https://github.com/bearddan2000?tab=repositories&q=java-cassandra&type=&language=&sort=) | [couchbase](https://github.com/bearddan2000?tab=repositories&q=java-couchbase&type=&language=&sort=) | [couchdb](https://github.com/bearddan2000?tab=repositories&q=java-couchdb&type=&language=&sort=) | [fauna](https://github.com/bearddan2000?tab=repositories&q=java-fauna&type=&language=&sort=) | [mongodb](https://github.com/bearddan2000?tab=repositories&q=java-mongo&type=&language=&sort=) | [scylla](https://github.com/bearddan2000?tab=repositories&q=java-scylla&type=&language=&sort=) |
 - *ORM*
     - | [graphql](https://github.com/bearddan2000?tab=repositories&q=java-graphql&type=&language=&sort=) | [jooq](https://github.com/bearddan2000?tab=repositories&q=java-jooq&type=&language=&sort=) | [hibernate](https://github.com/bearddan2000?tab=repositories&q=java-hibernate&type=&language=&sort=) |
 - *Technologies*
-    - | [flyway](https://github.com/bearddan2000?tab=repositories&q=java-flyway&type=&language=&sort=) | [liquibase](https://github.com/bearddan2000?tab=repositories&q=java-liquibase&type=&language=&sort=) |
+    - | [janusgraph](https://github.com/bearddan2000?tab=repositories&q=java-janusgraph&type=&language=&sort=) | [flyway](https://github.com/bearddan2000?tab=repositories&q=java-flyway&type=&language=&sort=) | [liquibase](https://github.com/bearddan2000?tab=repositories&q=java-liquibase&type=&language=&sort=) |
 - *Text Search*
     - | [elasticsearch](https://github.com/bearddan2000?tab=repositories&q=java-elasticsearch&type=&language=&sort=) | [solr](https://github.com/bearddan2000?tab=repositories&q=java-solr&type=&language=&sort=) |
 - *Distributed Service*
-    - | [dynamo](https://github.com/bearddan2000?tab=repositories&q=java-dynamo&type=&language=&sort=) | [planetscale](https://github.com/bearddan2000?tab=repositories&q=java-planetscale&type=&language=&sort=) |
+    - | [cosmosdb](https://github.com/bearddan2000?tab=repositories&q=java-cosmos&type=&language=&sort=) | [dynamo](https://github.com/bearddan2000?tab=repositories&q=java-dynamo&type=&language=&sort=) | [planetscale](https://github.com/bearddan2000?tab=repositories&q=java-planetscale&type=&language=&sort=) |
 - *Big Data*
     - | [hbase](https://github.com/bearddan2000?tab=repositories&q=java-hbase&type=&language=&sort=) | [hive](https://github.com/bearddan2000?tab=repositories&q=java-hive&type=&language=&sort=) |
 
