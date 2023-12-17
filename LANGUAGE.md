@@ -1,87 +1,66 @@
 # Languages
 
-| Name | Search | Status | *All purpose* | *Functional* | *Procedural* | *Web* |
-| ---- | ---- | ---- | ------------- | ------------ | ------------ | ----- |
-| ada  | ---- | [Here](ADA.md) | X | - | X | X |
-| c  | ---- | [Here](C.md) | X | - | X | - |
-| clojure  | ---- | ---- | X | - | X | X |
-| cobol  | ---- | [Here](COBOL.md) | X | - | X | - |
-| cpp  | ---- | [Here](CPP.md) | X | - | X | - |
-| crystal  | ---- | ---- | X | - | X | X |
-| csharp  | ---- | ---- | X | - | X | X |
-| dart  | ---- | ---- | - | - | X | X |
-| delphi  | ---- | ---- | X | - | X | X |
-| deno  | ---- | ---- | - | - | X | X |
-| dlang  | ---- | ---- | X | - | X | - |
-| elixir  | ---- | ---- | X | X | - | X |
-| erlang | ---- | ---- | X | X | - | - |
-| haskell | ---- | ---- | X | X | - | - |
-| flutter  | ---- | ---- | - | - | X | X |
-| fortran  | ---- | ---- | - | - | X | - |
-| futhark  | ---- | ---- | - | X | - | - |
-| gleam  | ---- | [Here](GLEAM.md) | X | X | - | X |
-| golang  | ---- | ---- | X | - | X | X |
-| grain  | ---- | ---- | X | - | X | - |
-| groovy  | ---- | [Here](GROOVY.md) | X | - | X | X |
-| icon  | ---- | ---- | - | - | X | X |
-| java  | ---- | [Here](JAVA.md) | X | - | X | X |
-| javascript  | ---- | [Here](JAVASCRIPT.md) | - | - | X | X |
-| jruby  | ---- | ---- | X | - | X | X |
-| jython  | ---- | ---- | X | - | X | X |
-| julia  | ---- | ---- | X | - | X | - |
-| kotlin  | ---- | ---- | X | X | X | X |
-| lfe  | ---- | ---- | X | - | X | - |
-| lisp  | ---- | ---- | X | - | X | - |
-| lobster  | ---- | ---- | X | - | X | - |
-| lua  | ---- | ---- | X | - | X | X |
-| nim  | ---- | ---- | X | - | X | - |
-| nodejs  | ---- | [Here](NODE.md) | - | - | X | X |
-| ocaml  | ---- | ---- | X | X | - | X |
-| octave  | ---- | [Here](OCTAVE.md) | - | - | X | - |
-| odin  | ---- | ---- | - | - | X | - |
-| pascal  | ---- | ---- | X | - | X | - |
-| perl  | ---- | ---- | X | - | X | X |
-| php  | ---- | ---- | - | - | X | X |
-| pike  | ---- | [Here](PIKE.md) | - | - | X | X |
-| pony  | ---- | ---- | - | - | X | X |
-| prolog  | ---- | [Here](PROLOG.md) | X | - | X | - |
-| pyscript  | ---- | ---- | X | - | X | X |
-| python  | ---- | [Here](PYTHON.md) | X | - | X | X |
-| ruby  | ---- | [Here](RUBY.md) | X | - | X | X |
-| rust  | ---- | [Here](RUST.md) | X | - | X | X |
-| scala  | ---- | ---- | X | X | X | X |
-| smalltalk  | ---- | [Here](SMALLTALK.md) | X | - | X | X |
-| snobol  | ---- | ---- | X | - | X | - |
-| swift  | ---- | ---- | X | - | X | X |
-| tcl  | ---- | ---- | X | - | X | - |
-| vbnet  | ---- | ---- | X | - | X | X |
-| vlang  | ---- | ---- | X | - | X | X |
-| zig  | ---- | ---- | X | - | X | - |
-
-- *All purpose*
-    - | delphi | golang | icon |julia | lua | perl | pony | ruby | rust | swift | 
-- *C Replacements*
-    - | dlang | nim | vlang | zig |
-- *DOT Net*
-    - | csharp | vbnet |
-- *Functional*
-    - | elixir | ocaml | gleam |
-- *Functional Legacy*
-    - | erlang | haskell | lfe |
-- *Gaming*
-    - | odin | lobster |
-- *JVM*
-    - | clojure | groovy | java | jruby | jython | kotlin | scala | tcl |
-- *Mathmatical*
-    - | fortran | octave |
-- *Procederal Legacy*
-    - | ada | c | cobol | cpp | lisp | pascal | pike | prolog | scheme | smalltalk | snobol |
-- *Python Types*
-    - | crystal | python | pyscript |
-- *WASM*
-    - | grain |
-- *Web*
-    - | dart | flutter | javascript | nodejs | php |
-
-### Coming soon
-- | carbon | coffeescript | futhark | jakt | luna |
+### Type Vs Platform
+Name | Detailed | Function | Procedural | Oop | Cli | Desktop | Web
+---- | -------- | -------- | ---------- | --- | --- | ------- | ---
+[Ada](https://github.com/bearddan2000?tab=repositories&q=ada&type=&language=&sort=) | [Details](ADA.md) | - | X | - | X | - | X
+[Clang](https://github.com/bearddan2000?tab=repositories&q=clang&type=&language=&sort=) | [Details](CLANG.md) | - | X | - | X | - | -
+[Clojure](https://github.com/bearddan2000?tab=repositories&q=clojure&type=&language=&sort=) | [Details](CLOJURE.md) | X | X | - | X | - | X
+[Cobol](https://github.com/bearddan2000?tab=repositories&q=cobol&type=&language=&sort=) | [Details](COBOL.md) | - | X | - | X | - | -
+[Cpp](https://github.com/bearddan2000?tab=repositories&q=cpp&type=&language=&sort=) | [Details](CPP.md) | - | X | X | X | X | -
+[Crystal](https://github.com/bearddan2000?tab=repositories&q=crystal&type=&language=&sort=) | [Details](CRYSTAL.md) | - | X | X | X | - | X
+[Csharp](https://github.com/bearddan2000?tab=repositories&q=csharp&type=&language=&sort=) | [Details](CSHARP.md) | X | X | X | X | X | X
+[Dart](https://github.com/bearddan2000?tab=repositories&q=dart&type=&language=&sort=) | [Details](DART.md) | - | - | X | - | - | X
+[Delphi](https://github.com/bearddan2000?tab=repositories&q=delphi&type=&language=&sort=) | [Details](DELPHI.md) | - | X | X | X | - | X
+[Deno](https://github.com/bearddan2000?tab=repositories&q=deno&type=&language=&sort=) | [Details](DENO.md) | - | - | X | X | - | X
+[Dlang](https://github.com/bearddan2000?tab=repositories&q=dlang&type=&language=&sort=) | [Details](DLANG.md) | - | X | - | X | - | -
+[Elixir](https://github.com/bearddan2000?tab=repositories&q=elixir&type=&language=&sort=) | [Details](ELIXIR.md) | X | - | X | X | - | X
+[Erlang](https://github.com/bearddan2000?tab=repositories&q=erlang&type=&language=&sort=) | [Details](ERLANG.md) | X | - | - | X | - | -
+[Fortran](https://github.com/bearddan2000?tab=repositories&q=fortran&type=&language=&sort=) | [Details](FORTRAN.md) | - | X | - | X | - | -
+[Futhark](https://github.com/bearddan2000?tab=repositories&q=futhark&type=&language=&sort=) | [Details](FUTHARK.md) | X | - | - | X | - | -
+[Gleam](https://github.com/bearddan2000?tab=repositories&q=gleam&type=&language=&sort=) | [Details](GLEAM.md) | X | - | - | X | - | X
+[Golang](https://github.com/bearddan2000?tab=repositories&q=golang&type=&language=&sort=) | [Details](GOLANG.md) | - | X | X | X | - | X
+[Grain](https://github.com/bearddan2000?tab=repositories&q=grain&type=&language=&sort=) | [Details](GRAIN.md) | - | - | X | - | - | X
+[Groovy](https://github.com/bearddan2000?tab=repositories&q=groovy&type=&language=&sort=) | [Details](GROOVY.md) | - | - | X | X | - | X
+[Haskell](https://github.com/bearddan2000?tab=repositories&q=haskell&type=&language=&sort=) | [Details](HASKELL.md) | X | - | - | X | - | -
+[Icon](https://github.com/bearddan2000?tab=repositories&q=icon&type=&language=&sort=) | [Details](ICON.md) | - | X | - | X | - | -
+[Java](https://github.com/bearddan2000?tab=repositories&q=java&type=&language=&sort=) | [Details](JAVA.md) | - | X | X | X | X | X
+[Javascript](https://github.com/bearddan2000?tab=repositories&q=javascript&type=&language=&sort=) | [Details](JAVASCRIPT.md) | - | X | X | - | - | X
+[Jruby](https://github.com/bearddan2000?tab=repositories&q=jruby&type=&language=&sort=) | [Details](JRUBY.md) | - | - | X | - | - | X
+[Julia](https://github.com/bearddan2000?tab=repositories&q=julia&type=&language=&sort=) | [Details](JULIA.md) | X | X | - | X | - | -
+[Jython](https://github.com/bearddan2000?tab=repositories&q=jython&type=&language=&sort=) | [Details](JYTHON.md) | - | - | X | X | - | X
+[Kotlin](https://github.com/bearddan2000?tab=repositories&q=kotlin&type=&language=&sort=) | [Details](KOTLIN.md) | X | - | X | X | - | X
+[Lfe](https://github.com/bearddan2000?tab=repositories&q=lfe&type=&language=&sort=) | [Details](LFE.md) | - | - | X | X | - | -
+[Lisp](https://github.com/bearddan2000?tab=repositories&q=lisp&type=&language=&sort=) | [Details](LISP.md) | - | X | - | X | - | X
+[Lobster](https://github.com/bearddan2000?tab=repositories&q=lobster&type=&language=&sort=) | [Details](LOBSTER.md) | - | - | X | X | - | -
+[Lua](https://github.com/bearddan2000?tab=repositories&q=lua&type=&language=&sort=) | [Details](LUA.md) | - | X | X | X | - | X
+[Nim](https://github.com/bearddan2000?tab=repositories&q=nim&type=&language=&sort=) | [Details](NIM.md) | - | X | - | X | - | -
+[Nodejs](https://github.com/bearddan2000?tab=repositories&q=nodejs&type=&language=&sort=) | [Details](NODEJS.md) | - | - | X | - | - | X
+[Ocaml](https://github.com/bearddan2000?tab=repositories&q=ocaml&type=&language=&sort=) | [Details](OCAML.md) | X | - | - | X | - | X
+[Octave](https://github.com/bearddan2000?tab=repositories&q=octave&type=&language=&sort=) | [Details](OCTAVE.md) | - | X | - | X | - | -
+[Odin](https://github.com/bearddan2000?tab=repositories&q=odin&type=&language=&sort=) | [Details](ODIN.md) | - | - | X | X | - | -
+[Pascal](https://github.com/bearddan2000?tab=repositories&q=pascal&type=&language=&sort=) | [Details](PASCAL.md) | - | X | X | X | - | -
+[Perl](https://github.com/bearddan2000?tab=repositories&q=perl&type=&language=&sort=) | [Details](PERL.md) | - | X | X | X | - | X
+[Php](https://github.com/bearddan2000?tab=repositories&q=php&type=&language=&sort=) | [Details](PHP.md) | - | X | X | - | - | X
+[Pike](https://github.com/bearddan2000?tab=repositories&q=pike&type=&language=&sort=) | [Details](PIKE.md) | - | X | - | X | - | X
+[Pony](https://github.com/bearddan2000?tab=repositories&q=pony&type=&language=&sort=) | [Details](PONY.md) | - | X | - | X | - | -
+[Powershell](https://github.com/bearddan2000?tab=repositories&q=powershell&type=&language=&sort=) | [Details](POWERSHELL.md) | - | - | X | X | - | -
+[Prolog](https://github.com/bearddan2000?tab=repositories&q=prolog&type=&language=&sort=) | [Details](PROLOG.md) | - | X | - | X | - | -
+[Pyscript](https://github.com/bearddan2000?tab=repositories&q=pyscript&type=&language=&sort=) | [Details](PYSCRIPT.md) | - | - | X | - | - | X
+[Python](https://github.com/bearddan2000?tab=repositories&q=python&type=&language=&sort=) | [Details](PYTHON.md) | X | - | X | X | X | X
+[Ruby](https://github.com/bearddan2000?tab=repositories&q=ruby&type=&language=&sort=) | [Details](RUBY.md) | - | - | X | X | - | X
+[Rust](https://github.com/bearddan2000?tab=repositories&q=rust&type=&language=&sort=) | [Details](RUST.md) | - | - | X | X | - | X
+[Scala](https://github.com/bearddan2000?tab=repositories&q=scala&type=&language=&sort=) | [Details](SCALA.md) | X | - | X | X | - | X
+[Smalltalk](https://github.com/bearddan2000?tab=repositories&q=smalltalk&type=&language=&sort=) | [Details](SMALLTALK.md) | - | - | X | X | - | -
+[Snobol](https://github.com/bearddan2000?tab=repositories&q=snobol&type=&language=&sort=) | [Details](SNOBOL.md) | - | X | - | X | - | -
+[Swift](https://github.com/bearddan2000?tab=repositories&q=swift&type=&language=&sort=) | [Details](SWIFT.md) | X | - | X | X | - | X
+[Tcl](https://github.com/bearddan2000?tab=repositories&q=tcl&type=&language=&sort=) | [Details](TCL.md) | - | X | - | - | X | -
+[Vbnet](https://github.com/bearddan2000?tab=repositories&q=vbnet&type=&language=&sort=) | [Details](VBNET.md) | - | - | X | X | - | X
+[Vlang](https://github.com/bearddan2000?tab=repositories&q=vlang&type=&language=&sort=) | [Details](VLANG.md) | - | - | X | X | - | -
+[Zig](https://github.com/bearddan2000?tab=repositories&q=zig&type=&language=&sort=) | [Details](ZIG.md) | - | - | X | X | - | -
+### Function
+[Clojure](https://github.com/bearddan2000?tab=repositories&q=clojure&type=&language=&sort=) | [Csharp](https://github.com/bearddan2000?tab=repositories&q=csharp&type=&language=&sort=) | [Elixir](https://github.com/bearddan2000?tab=repositories&q=elixir&type=&language=&sort=) | [Erlang](https://github.com/bearddan2000?tab=repositories&q=erlang&type=&language=&sort=) | [Futhark](https://github.com/bearddan2000?tab=repositories&q=futhark&type=&language=&sort=) | [Gleam](https://github.com/bearddan2000?tab=repositories&q=gleam&type=&language=&sort=) | [Haskell](https://github.com/bearddan2000?tab=repositories&q=haskell&type=&language=&sort=) | [Julia](https://github.com/bearddan2000?tab=repositories&q=julia&type=&language=&sort=) | [Kotlin](https://github.com/bearddan2000?tab=repositories&q=kotlin&type=&language=&sort=) | [Ocaml](https://github.com/bearddan2000?tab=repositories&q=ocaml&type=&language=&sort=) | [Python](https://github.com/bearddan2000?tab=repositories&q=python&type=&language=&sort=) | [Scala](https://github.com/bearddan2000?tab=repositories&q=scala&type=&language=&sort=) | [Swift](https://github.com/bearddan2000?tab=repositories&q=swift&type=&language=&sort=)
+### Oop
+[Cpp](https://github.com/bearddan2000?tab=repositories&q=cpp&type=&language=&sort=) | [Crystal](https://github.com/bearddan2000?tab=repositories&q=crystal&type=&language=&sort=) | [Csharp](https://github.com/bearddan2000?tab=repositories&q=csharp&type=&language=&sort=) | [Dart](https://github.com/bearddan2000?tab=repositories&q=dart&type=&language=&sort=) | [Delphi](https://github.com/bearddan2000?tab=repositories&q=delphi&type=&language=&sort=) | [Deno](https://github.com/bearddan2000?tab=repositories&q=deno&type=&language=&sort=) | [Elixir](https://github.com/bearddan2000?tab=repositories&q=elixir&type=&language=&sort=) | [Golang](https://github.com/bearddan2000?tab=repositories&q=golang&type=&language=&sort=) | [Grain](https://github.com/bearddan2000?tab=repositories&q=grain&type=&language=&sort=) | [Groovy](https://github.com/bearddan2000?tab=repositories&q=groovy&type=&language=&sort=) | [Java](https://github.com/bearddan2000?tab=repositories&q=java&type=&language=&sort=) | [Javascript](https://github.com/bearddan2000?tab=repositories&q=javascript&type=&language=&sort=) | [Jruby](https://github.com/bearddan2000?tab=repositories&q=jruby&type=&language=&sort=) | [Jython](https://github.com/bearddan2000?tab=repositories&q=jython&type=&language=&sort=) | [Kotlin](https://github.com/bearddan2000?tab=repositories&q=kotlin&type=&language=&sort=) | [Lfe](https://github.com/bearddan2000?tab=repositories&q=lfe&type=&language=&sort=) | [Lobster](https://github.com/bearddan2000?tab=repositories&q=lobster&type=&language=&sort=) | [Lua](https://github.com/bearddan2000?tab=repositories&q=lua&type=&language=&sort=) | [Nodejs](https://github.com/bearddan2000?tab=repositories&q=nodejs&type=&language=&sort=) | [Odin](https://github.com/bearddan2000?tab=repositories&q=odin&type=&language=&sort=) | [Pascal](https://github.com/bearddan2000?tab=repositories&q=pascal&type=&language=&sort=) | [Perl](https://github.com/bearddan2000?tab=repositories&q=perl&type=&language=&sort=) | [Php](https://github.com/bearddan2000?tab=repositories&q=php&type=&language=&sort=) | [Powershell](https://github.com/bearddan2000?tab=repositories&q=powershell&type=&language=&sort=) | [Pyscript](https://github.com/bearddan2000?tab=repositories&q=pyscript&type=&language=&sort=) | [Python](https://github.com/bearddan2000?tab=repositories&q=python&type=&language=&sort=) | [Ruby](https://github.com/bearddan2000?tab=repositories&q=ruby&type=&language=&sort=) | [Rust](https://github.com/bearddan2000?tab=repositories&q=rust&type=&language=&sort=) | [Scala](https://github.com/bearddan2000?tab=repositories&q=scala&type=&language=&sort=) | [Smalltalk](https://github.com/bearddan2000?tab=repositories&q=smalltalk&type=&language=&sort=) | [Swift](https://github.com/bearddan2000?tab=repositories&q=swift&type=&language=&sort=) | [Vbnet](https://github.com/bearddan2000?tab=repositories&q=vbnet&type=&language=&sort=) | [Vlang](https://github.com/bearddan2000?tab=repositories&q=vlang&type=&language=&sort=) | [Zig](https://github.com/bearddan2000?tab=repositories&q=zig&type=&language=&sort=)
+### Procedural
+[Ada](https://github.com/bearddan2000?tab=repositories&q=ada&type=&language=&sort=) | [Clang](https://github.com/bearddan2000?tab=repositories&q=clang&type=&language=&sort=) | [Clojure](https://github.com/bearddan2000?tab=repositories&q=clojure&type=&language=&sort=) | [Cobol](https://github.com/bearddan2000?tab=repositories&q=cobol&type=&language=&sort=) | [Cpp](https://github.com/bearddan2000?tab=repositories&q=cpp&type=&language=&sort=) | [Crystal](https://github.com/bearddan2000?tab=repositories&q=crystal&type=&language=&sort=) | [Csharp](https://github.com/bearddan2000?tab=repositories&q=csharp&type=&language=&sort=) | [Delphi](https://github.com/bearddan2000?tab=repositories&q=delphi&type=&language=&sort=) | [Dlang](https://github.com/bearddan2000?tab=repositories&q=dlang&type=&language=&sort=) | [Fortran](https://github.com/bearddan2000?tab=repositories&q=fortran&type=&language=&sort=) | [Golang](https://github.com/bearddan2000?tab=repositories&q=golang&type=&language=&sort=) | [Icon](https://github.com/bearddan2000?tab=repositories&q=icon&type=&language=&sort=) | [Java](https://github.com/bearddan2000?tab=repositories&q=java&type=&language=&sort=) | [Javascript](https://github.com/bearddan2000?tab=repositories&q=javascript&type=&language=&sort=) | [Julia](https://github.com/bearddan2000?tab=repositories&q=julia&type=&language=&sort=) | [Lisp](https://github.com/bearddan2000?tab=repositories&q=lisp&type=&language=&sort=) | [Lua](https://github.com/bearddan2000?tab=repositories&q=lua&type=&language=&sort=) | [Nim](https://github.com/bearddan2000?tab=repositories&q=nim&type=&language=&sort=) | [Octave](https://github.com/bearddan2000?tab=repositories&q=octave&type=&language=&sort=) | [Pascal](https://github.com/bearddan2000?tab=repositories&q=pascal&type=&language=&sort=) | [Perl](https://github.com/bearddan2000?tab=repositories&q=perl&type=&language=&sort=) | [Php](https://github.com/bearddan2000?tab=repositories&q=php&type=&language=&sort=) | [Pike](https://github.com/bearddan2000?tab=repositories&q=pike&type=&language=&sort=) | [Pony](https://github.com/bearddan2000?tab=repositories&q=pony&type=&language=&sort=) | [Prolog](https://github.com/bearddan2000?tab=repositories&q=prolog&type=&language=&sort=) | [Snobol](https://github.com/bearddan2000?tab=repositories&q=snobol&type=&language=&sort=) | [Tcl](https://github.com/bearddan2000?tab=repositories&q=tcl&type=&language=&sort=)

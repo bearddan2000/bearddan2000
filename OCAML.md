@@ -1,9 +1,9 @@
-# Gleam
+# Ocaml
 
 ## Type
 	- function
 ## Much Like
-[Cpp](CPP.md)
+[Haskell](HASKELL.md)
 ## Platform
 	- cli
 	- web
@@ -11,7 +11,6 @@
 	- Atkins sieve example
 	- Basic auth example
 	- Cors example
-	- Docker web framework `gleamlang/midas` example
 	- Mysql example
 	- Opengl example
 	- Oracle example
@@ -26,6 +25,6 @@
 	- Websocket example
 	- X11 desktop application example
 ## Build
-None
+[Buck2Build](https://github.com/bearddan2000?tab=repositories&q=ocaml+buck2build&type=&language=&sort=)
 ## Database
 None

@@ -1,9 +1,9 @@
-# Gleam
+# Jython
 
 ## Type
-	- function
+	- oop
 ## Much Like
-[Cpp](CPP.md)
+[Java](JAVA.md) | [Python](PYTHON.md)
 ## Platform
 	- cli
 	- web
@@ -11,7 +11,6 @@
 	- Atkins sieve example
 	- Basic auth example
 	- Cors example
-	- Docker web framework `gleamlang/midas` example
 	- Mysql example
 	- Opengl example
 	- Oracle example

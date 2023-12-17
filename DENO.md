@@ -1,9 +1,9 @@
-# Gleam
+# Deno
 
 ## Type
-	- function
+	- oop
 ## Much Like
-[Cpp](CPP.md)
+[Javascript](JAVASCRIPT.md) | [Nodejs](NODEJS.md)
 ## Platform
 	- cli
 	- web
@@ -11,7 +11,6 @@
 	- Atkins sieve example
 	- Basic auth example
 	- Cors example
-	- Docker web framework `gleamlang/midas` example
 	- Mysql example
 	- Opengl example
 	- Oracle example

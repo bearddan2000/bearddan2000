@@ -1,78 +1,28 @@
 # Java
 
-## Description
-All purpose language know for high verisitly. Cross
-platformable, it runs on a virtual environment independent
-of the OS.
-
-## Build system
-| [ant](https://github.com/bearddan2000?tab=repositories&q=java-ant&type=&language=&sort=) 
-| [bazel](https://github.com/bearddan2000?tab=repositories&q=java-bazel&type=&language=&sort=)
-| [blade](https://github.com/bearddan2000?tab=repositories&q=java-bladel&type=&language=&sort=)
-| [buckbuild](https://github.com/bearddan2000?tab=repositories&q=java-buck&type=&language=&sort=)
-| [buildr](https://github.com/bearddan2000?tab=repositories&q=java-buildr&type=&language=&sort=)
-| [gradle](https://github.com/bearddan2000?tab=repositories&q=java-gradle&type=&language=&sort=)
-| [millbuild](https://github.com/bearddan2000?tab=repositories&q=java-mill&type=&language=&sort=)
-| [maven](https://github.com/bearddan2000?tab=repositories&q=java-maven&type=&language=&sort=)
-| [sbt](https://github.com/bearddan2000?tab=repositories&q=java-sbt&type=&language=&sort=) 
-|
-
-## Databases in this repo
-- *Rational*
-    - | [cockroachdb](https://github.com/bearddan2000?tab=repositories&q=java-cockroach&type=&language=&sort=) 
-| [db2](https://github.com/bearddan2000?tab=repositories&q=java-db2&type=&language=&sort=) 
-| [mysql](https://github.com/bearddan2000?tab=repositories&q=java-mysql&type=&language=&sort=) 
-| [oracle](https://github.com/bearddan2000?tab=repositories&q=java-oracle&type=&language=&sort=) 
-| [postgres](https://github.com/bearddan2000?tab=repositories&q=java-postgres&type=&language=&sort=) 
-| [sql server](https://github.com/bearddan2000?tab=repositories&q=java-sqlserver&type=&language=&sort=) 
-| [sybase](https://github.com/bearddan2000?tab=repositories&q=java-sybase&type=&language=&sort=) 
-|
-- *Graph*
-    - | [aragondb](https://github.com/bearddan2000?tab=repositories&q=java-aragondb&type=&language=&sort=) |
-    [dgraph](https://github.com/bearddan2000?tab=repositories&q=java-dgraph&type=&language=&sort=) |
-        [neo4j](https://github.com/bearddan2000?tab=repositories&q=java-neo4j&type=&language=&sort=)  |
-- *Hybrids*
-    - | [orientdb](https://github.com/bearddan2000?tab=repositories&q=java-orient&type=&language=&sort=) |
-- *Key Value*
-    - | [gemfire](https://github.com/bearddan2000?tab=repositories&q=java-gemfire&type=&language=&sort=) | [redis](https://github.com/bearddan2000?tab=repositories&q=java-redis&type=&language=&sort=)| |
-- *In Memory*
-    - | [derby](https://github.com/bearddan2000?tab=repositories&q=java-derby&type=&language=&sort=) | [h2](https://github.com/bearddan2000?tab=repositories&q=java-h2&type=&language=&sort=) | [hsql](https://github.com/bearddan2000?tab=repositories&q=java-hsql&type=&language=&sort=) |
-- *No Sql*
-    - | [cassandra](https://github.com/bearddan2000?tab=repositories&q=java-cassandra&type=&language=&sort=) | [couchbase](https://github.com/bearddan2000?tab=repositories&q=java-couchbase&type=&language=&sort=) | [couchdb](https://github.com/bearddan2000?tab=repositories&q=java-couchdb&type=&language=&sort=) | [fauna](https://github.com/bearddan2000?tab=repositories&q=java-fauna&type=&language=&sort=) | [mongodb](https://github.com/bearddan2000?tab=repositories&q=java-mongo&type=&language=&sort=) | [scylla](https://github.com/bearddan2000?tab=repositories&q=java-scylla&type=&language=&sort=) |
-- *ORM*
-    - | [graphql](https://github.com/bearddan2000?tab=repositories&q=java-graphql&type=&language=&sort=) | [jooq](https://github.com/bearddan2000?tab=repositories&q=java-jooq&type=&language=&sort=) | [hibernate](https://github.com/bearddan2000?tab=repositories&q=java-hibernate&type=&language=&sort=) |
-- *Technologies*
-    - | [janusgraph](https://github.com/bearddan2000?tab=repositories&q=java-janusgraph&type=&language=&sort=) | [flyway](https://github.com/bearddan2000?tab=repositories&q=java-flyway&type=&language=&sort=) | [liquibase](https://github.com/bearddan2000?tab=repositories&q=java-liquibase&type=&language=&sort=) |
-- *Text Search*
-    - | [elasticsearch](https://github.com/bearddan2000?tab=repositories&q=java-elasticsearch&type=&language=&sort=) | [solr](https://github.com/bearddan2000?tab=repositories&q=java-solr&type=&language=&sort=) |
-- *Distributed Service*
-    - | [cosmosdb](https://github.com/bearddan2000?tab=repositories&q=java-cosmos&type=&language=&sort=) | [dynamo](https://github.com/bearddan2000?tab=repositories&q=java-dynamo&type=&language=&sort=) | [planetscale](https://github.com/bearddan2000?tab=repositories&q=java-planetscale&type=&language=&sort=) |
-- *Big Data*
-    - | [hbase](https://github.com/bearddan2000?tab=repositories&q=java-hbase&type=&language=&sort=) | [hive](https://github.com/bearddan2000?tab=repositories&q=java-hive&type=&language=&sort=) |
-
-## Frameworks in this repo
-- | dropwizard | halidon | javafx | quarkus | spring | vaadin |
-
-## Frameworks coming soon
-- | apache-tapestry | blade | bootique | gwt | jooby | linkrest | ratpack | wicket |
-
-## Security in this repo
-- *Encryption*
-    - | aes | des | rsa | triple-des |
-- *Hashes*
-    - | argon2 | bcrypt | pbkdf2 | scrypt |
-- *Web*
-    - | basic authentication | ssl |
-
-## Testing Frameworks
-- *All purpose*
-    - | junit | mockito | spring test | spock | testng |
-- *Business Driven Development*
-    - | cucumber | jbehave |
-- *Reporting*
-    - | allure |
-- *Web*
-    - | selenium |
-
-## Web frameworks in this repo
-- | jsf | jsp | thymeleaf |
+## Type
+	- oop
+	- procedural
+## Much Like
+[Clang](CLANG.md)
+## Platform
+	- cli
+	- desktop
+	- web
+## Todo
+	- Apache cayeen oem example
+	- Apache tapistry framework example
+	- Blade framework example
+	- Bootique framework example
+	- GWT framework example
+	- Jooby framework example
+	- Linkrest framework example
+	- Opengl example
+	- Ratpack framework example
+	- Server side event example
+	- Spark example
+	- Wicket framework example
+## Build
+[Ant](https://github.com/bearddan2000?tab=repositories&q=java+ant&type=&language=&sort=) | [Bazel](https://github.com/bearddan2000?tab=repositories&q=java+bazel&type=&language=&sort=) | [Bloop](https://github.com/bearddan2000?tab=repositories&q=java+bloop&type=&language=&sort=) | [Buck2Build](https://github.com/bearddan2000?tab=repositories&q=java+buck2build&type=&language=&sort=) | [Buckbuild](https://github.com/bearddan2000?tab=repositories&q=java+buckbuild&type=&language=&sort=) | [Buildr](https://github.com/bearddan2000?tab=repositories&q=java+buildr&type=&language=&sort=) | [Graalvm](https://github.com/bearddan2000?tab=repositories&q=java+graalvm&type=&language=&sort=) | [Gradle](https://github.com/bearddan2000?tab=repositories&q=java+gradle&type=&language=&sort=) | [Maven](https://github.com/bearddan2000?tab=repositories&q=java+maven&type=&language=&sort=) | [Millbuild](https://github.com/bearddan2000?tab=repositories&q=java+millbuild&type=&language=&sort=) | [Pants](https://github.com/bearddan2000?tab=repositories&q=java+pants&type=&language=&sort=) | [Sbt](https://github.com/bearddan2000?tab=repositories&q=java+sbt&type=&language=&sort=)
+## Database
+[Aragon](https://github.com/bearddan2000?tab=repositories&q=java+aragon&type=&language=&sort=) | [Cassandra](https://github.com/bearddan2000?tab=repositories&q=java+cassandra&type=&language=&sort=) | [Cockroachdb](https://github.com/bearddan2000?tab=repositories&q=java+cockroachdb&type=&language=&sort=) | [Cosmosdb](https://github.com/bearddan2000?tab=repositories&q=java+cosmosdb&type=&language=&sort=) | [Couchbase](https://github.com/bearddan2000?tab=repositories&q=java+couchbase&type=&language=&sort=) | [Couchdb](https://github.com/bearddan2000?tab=repositories&q=java+couchdb&type=&language=&sort=) | [Db2](https://github.com/bearddan2000?tab=repositories&q=java+db2&type=&language=&sort=) | [Derby](https://github.com/bearddan2000?tab=repositories&q=java+derby&type=&language=&sort=) | [Dgraph](https://github.com/bearddan2000?tab=repositories&q=java+dgraph&type=&language=&sort=) | [Dolt](https://github.com/bearddan2000?tab=repositories&q=java+dolt&type=&language=&sort=) | [Dynamodb](https://github.com/bearddan2000?tab=repositories&q=java+dynamodb&type=&language=&sort=) | [Elasticsearch](https://github.com/bearddan2000?tab=repositories&q=java+elasticsearch&type=&language=&sort=) | [Faunadb](https://github.com/bearddan2000?tab=repositories&q=java+faunadb&type=&language=&sort=) | [Gemfire](https://github.com/bearddan2000?tab=repositories&q=java+gemfire&type=&language=&sort=) | [H2](https://github.com/bearddan2000?tab=repositories&q=java+h2&type=&language=&sort=) | [Hbase](https://github.com/bearddan2000?tab=repositories&q=java+hbase&type=&language=&sort=) | [Hive](https://github.com/bearddan2000?tab=repositories&q=java+hive&type=&language=&sort=) | [Hsql](https://github.com/bearddan2000?tab=repositories&q=java+hsql&type=&language=&sort=) | [Janusgraph](https://github.com/bearddan2000?tab=repositories&q=java+janusgraph&type=&language=&sort=) | [Memcache](https://github.com/bearddan2000?tab=repositories&q=java+memcache&type=&language=&sort=) | [Mongodb](https://github.com/bearddan2000?tab=repositories&q=java+mongodb&type=&language=&sort=) | [Mysql](https://github.com/bearddan2000?tab=repositories&q=java+mysql&type=&language=&sort=) | [Neo4J](https://github.com/bearddan2000?tab=repositories&q=java+neo4j&type=&language=&sort=) | [Oracle](https://github.com/bearddan2000?tab=repositories&q=java+oracle&type=&language=&sort=) | [Orientdb](https://github.com/bearddan2000?tab=repositories&q=java+orientdb&type=&language=&sort=) | [Planetscal](https://github.com/bearddan2000?tab=repositories&q=java+planetscal&type=&language=&sort=) | [Postgres](https://github.com/bearddan2000?tab=repositories&q=java+postgres&type=&language=&sort=) | [Questdb](https://github.com/bearddan2000?tab=repositories&q=java+questdb&type=&language=&sort=) | [Redis](https://github.com/bearddan2000?tab=repositories&q=java+redis&type=&language=&sort=) | [Scylla](https://github.com/bearddan2000?tab=repositories&q=java+scylla&type=&language=&sort=) | [Solr](https://github.com/bearddan2000?tab=repositories&q=java+solr&type=&language=&sort=) | [Sqlserver](https://github.com/bearddan2000?tab=repositories&q=java+sqlserver&type=&language=&sort=) | [Surreal](https://github.com/bearddan2000?tab=repositories&q=java+surreal&type=&language=&sort=) | [Sybase](https://github.com/bearddan2000?tab=repositories&q=java+sybase&type=&language=&sort=)

@@ -1,55 +1,36 @@
 # Groovy
 
-## Description
-All purpose language know for web framework and dsl for gradle. Cross
-platformable, it runs on a virtual environment independent
-of the OS.
-
-## Build system
-- | bazel | gradle | grape | mill | maven |
-
-## Databases in this repo
-- *Rational*
-    - | cockroachdb | db2 | mysql | postgres | sql server | sybase |
-- *Graph*
-    - | neo4j |
-- *Hybrids*
-    - | orientdb |
-- *Key Value*
-    - | redis |
-- *In Memory*
-    - | derby | h2 | hsql |
-- *No Sql*
-    - | mongodb |
-- *Technologies*
-    - | graphql | hibernate |
-- *Text Search*
-    - | elasticsearch | solr |
-
-## Databases coming soon
-- |  cassandra | couchdb | oracle |
-
-## Frameworks in this repo
-- | spring |
-
-## Frameworks coming soon
-- | apache-tapestry | blade | bootique | dropwizard | gwt | jooby | linkrest | ratpack | wicket | vaadin |
-
-## Security in this repo
-- *Encryption*
-    - | aes | des | rsa | triple-des |
-- *Hashes*
-    - | argon2 | bcrypt | pbkdf2 | scrypt |
-- *Web*
-    - | basic authentication | ssl |
-
-## Testing Frameworks
-- *All purpose*
-    - | junit | mockito | spring test | spock | testng |
-- *Business Driven Development*
-    - | cucumber |
-- *Web*
-    - | selenium |
-
-## Web frameworks in this repo
-- | jsf | jsp | thymeleaf |
+## Type
+	- oop
+## Much Like
+[Java](JAVA.md)
+## Platform
+	- cli
+	- web
+## Todo
+	- Apache cayeen oem example
+	- Apache tapistry framework example
+	- Basic auth example
+	- Blade framework example
+	- Bootique framework example
+	- Cors example
+	- Dropwizard example
+	- GWT framework example
+	- Halidon framework example
+	- Janusgraph example
+	- Jooby framework example
+	- Linkrest framework example
+	- Opengl example
+	- Ratpack framework example
+	- Server side event example
+	- Spark example
+	- Spring batch example
+	- Ssl example
+	- Vaadin example
+	- Websocket example
+	- Wicket framework example
+	- X11 desktop application example
+## Build
+[Bazel](https://github.com/bearddan2000?tab=repositories&q=groovy+bazel&type=&language=&sort=) | [Graalvm](https://github.com/bearddan2000?tab=repositories&q=groovy+graalvm&type=&language=&sort=) | [Gradle](https://github.com/bearddan2000?tab=repositories&q=groovy+gradle&type=&language=&sort=) | [Grape](https://github.com/bearddan2000?tab=repositories&q=groovy+grape&type=&language=&sort=) | [Maven](https://github.com/bearddan2000?tab=repositories&q=groovy+maven&type=&language=&sort=)
+## Database
+[Cockroachdb](https://github.com/bearddan2000?tab=repositories&q=groovy+cockroachdb&type=&language=&sort=) | [Db2](https://github.com/bearddan2000?tab=repositories&q=groovy+db2&type=&language=&sort=) | [Derby](https://github.com/bearddan2000?tab=repositories&q=groovy+derby&type=&language=&sort=) | [Dolt](https://github.com/bearddan2000?tab=repositories&q=groovy+dolt&type=&language=&sort=) | [Mongodb](https://github.com/bearddan2000?tab=repositories&q=groovy+mongodb&type=&language=&sort=) | [Mysql](https://github.com/bearddan2000?tab=repositories&q=groovy+mysql&type=&language=&sort=) | [Oracle](https://github.com/bearddan2000?tab=repositories&q=groovy+oracle&type=&language=&sort=) | [Postgres](https://github.com/bearddan2000?tab=repositories&q=groovy+postgres&type=&language=&sort=) | [Sqlserver](https://github.com/bearddan2000?tab=repositories&q=groovy+sqlserver&type=&language=&sort=) | [Sybase](https://github.com/bearddan2000?tab=repositories&q=groovy+sybase&type=&language=&sort=)

@@ -1,9 +1,10 @@
-# Gleam
+# Clojure
 
 ## Type
 	- function
+	- procedural
 ## Much Like
-[Cpp](CPP.md)
+[Java](JAVA.md)
 ## Platform
 	- cli
 	- web
@@ -11,7 +12,7 @@
 	- Atkins sieve example
 	- Basic auth example
 	- Cors example
-	- Docker web framework `gleamlang/midas` example
+	- Hibernate example
 	- Mysql example
 	- Opengl example
 	- Oracle example
@@ -21,11 +22,13 @@
 	- Server side event example
 	- Sieve of eroth example
 	- Sieve seg example
+	- Spark example
+	- Springboot example
 	- Sqlserver example
 	- Ssl example
 	- Websocket example
 	- X11 desktop application example
 ## Build
-None
+[Maven](https://github.com/bearddan2000?tab=repositories&q=clojure+maven&type=&language=&sort=)
 ## Database
 None

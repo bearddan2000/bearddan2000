@@ -1,31 +1,27 @@
-# Pike
+# Golang
 
 ## Type
+	- oop
 	- procedural
 ## Much Like
-[Clang](CLANG.md)
+[Java](JAVA.md) | [Python](PYTHON.md)
 ## Platform
 	- cli
 	- web
 ## Todo
-	- Atkins sieve example
 	- Basic auth example
 	- Cors example
 	- Mysql example
 	- Opengl example
 	- Oracle example
-	- Pascal triangle example
 	- Postgres example
 	- Selenium example
 	- Server side event example
-	- Sieve of eroth example
-	- Sieve seg example
 	- Sqlserver example
 	- Ssl example
-	- Web page example
 	- Websocket example
 	- X11 desktop application example
 ## Build
-None
+[Get](https://github.com/bearddan2000?tab=repositories&q=golang+get&type=&language=&sort=)
 ## Database
-None
+[Dolt](https://github.com/bearddan2000?tab=repositories&q=golang+dolt&type=&language=&sort=) | [Mysql](https://github.com/bearddan2000?tab=repositories&q=golang+mysql&type=&language=&sort=)

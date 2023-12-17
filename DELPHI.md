@@ -1,9 +1,10 @@
-# Gleam
+# Delphi
 
 ## Type
-	- function
+	- oop
+	- procedural
 ## Much Like
-[Cpp](CPP.md)
+[Pascal](PASCAL.md)
 ## Platform
 	- cli
 	- web
@@ -11,7 +12,6 @@
 	- Atkins sieve example
 	- Basic auth example
 	- Cors example
-	- Docker web framework `gleamlang/midas` example
 	- Mysql example
 	- Opengl example
 	- Oracle example
