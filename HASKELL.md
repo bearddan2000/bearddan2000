@@ -19,5 +19,7 @@
 	- X11 desktop application example
 ## Build
 [Buck2Build](https://github.com/bearddan2000?tab=repositories&q=haskell+buck2build&type=&language=&sort=)
+## Framework
+None
 ## Database
 None

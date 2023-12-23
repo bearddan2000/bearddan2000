@@ -1,28 +1,21 @@
-# Deno
+# Rlang
 
 ## Type
-	- oop
+	- function
 ## Much Like
-[Javascript](JAVASCRIPT.md) | [Nodejs](NODEJS.md)
+[Fortran](FORTRAN.md) | [Python](PYTHON.md)
 ## Platform
 	- cli
-	- web
 ## Todo
 	- Atkins sieve example
-	- Basic auth example
-	- Cors example
 	- Mysql example
 	- Opengl example
 	- Oracle example
 	- Pascal triangle example
 	- Postgres example
-	- Selenium example
-	- Server side event example
 	- Sieve of eroth example
 	- Sieve seg example
 	- Sqlserver example
-	- Ssl example
-	- Websocket example
 	- X11 desktop application example
 ## Build
 None

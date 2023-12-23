@@ -20,5 +20,7 @@
 	- X11 desktop application example
 ## Build
 None
+## Framework
+None
 ## Database
 None
