@@ -17,7 +17,6 @@
 	- Sqlserver example
 	- Ssl example
 	- Websocket example
-	- X11 desktop application example
 ## Build
 [Wasm](https://github.com/bearddan2000?tab=repositories&q=grain+wasm&type=&language=&sort=)
 ## Framework

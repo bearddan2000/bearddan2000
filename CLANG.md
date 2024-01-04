@@ -17,7 +17,6 @@ None
 	- Sieve of eroth example
 	- Sieve seg example
 	- Sqlserver example
-	- X11 desktop application example
 ## Build
 [Cmake](https://github.com/bearddan2000?tab=repositories&q=clang+cmake&type=&language=&sort=) | [Gradle](https://github.com/bearddan2000?tab=repositories&q=clang+gradle&type=&language=&sort=) | [Haxe](https://github.com/bearddan2000?tab=repositories&q=clang+haxe&type=&language=&sort=) | [Make](https://github.com/bearddan2000?tab=repositories&q=clang+make&type=&language=&sort=) | [Meson](https://github.com/bearddan2000?tab=repositories&q=clang+meson&type=&language=&sort=) | [Ninja](https://github.com/bearddan2000?tab=repositories&q=clang+ninja&type=&language=&sort=) | [Qmake](https://github.com/bearddan2000?tab=repositories&q=clang+qmake&type=&language=&sort=)
 ## Framework

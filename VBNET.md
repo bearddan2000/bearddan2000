@@ -3,7 +3,7 @@
 ## Type
 	- oop
 ## Much Like
-[Basic](BASIC.md) | [Cpp](CPP.md)
+[Basic](BASIC.md) | [Csharp](CSHARP.md)
 ## Platform
 	- cli
 	- web
@@ -21,10 +21,9 @@
 	- Sqlserver example
 	- Ssl example
 	- Websocket example
-	- X11 desktop application example
 ## Build
-None
+[Nget](https://github.com/bearddan2000?tab=repositories&q=vbnet+nget&type=&language=&sort=)
 ## Framework
-None
+[Asp.Net](https://github.com/bearddan2000?tab=repositories&q=vbnet+asp.net&type=&language=&sort=) | [Entity](https://github.com/bearddan2000?tab=repositories&q=vbnet+entity&type=&language=&sort=) | [Linq](https://github.com/bearddan2000?tab=repositories&q=vbnet+linq&type=&language=&sort=) | [Linqsql](https://github.com/bearddan2000?tab=repositories&q=vbnet+linqsql&type=&language=&sort=)
 ## Database
 None

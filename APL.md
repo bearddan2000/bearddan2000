@@ -1,9 +1,10 @@
-# Lfe
+# Apl
 
 ## Type
-	- oop
+	- array
+	- procedural
 ## Much Like
-[Cpp](CPP.md)
+[Haskell](HASKELL.md)
 ## Platform
 	- cli
 ## Todo

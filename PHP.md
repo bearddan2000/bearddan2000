@@ -16,7 +16,6 @@
 	- Sqlserver example
 	- Ssl example
 	- Websocket example
-	- X11 desktop application example
 ## Build
 [Composer](https://github.com/bearddan2000?tab=repositories&q=php+composer&type=&language=&sort=)
 ## Framework

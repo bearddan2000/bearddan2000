@@ -16,7 +16,6 @@
 	- Sieve of eroth example
 	- Sieve seg example
 	- Sqlserver example
-	- X11 desktop application example
 ## Build
 None
 ## Framework

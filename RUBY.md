@@ -19,7 +19,6 @@
 	- Sqlserver example
 	- Ssl example
 	- Websocket example
-	- X11 desktop application example
 ## Build
 [Bazel](https://github.com/bearddan2000?tab=repositories&q=ruby+bazel&type=&language=&sort=) | [Gem](https://github.com/bearddan2000?tab=repositories&q=ruby+gem&type=&language=&sort=)
 ## Framework

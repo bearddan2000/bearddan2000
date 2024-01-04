@@ -17,7 +17,6 @@
 	- Sieve seg example
 	- Sqlserver example
 	- Squeak web framework example
-	- X11 desktop application example
 ## Build
 None
 ## Framework

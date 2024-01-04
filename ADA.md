@@ -25,7 +25,6 @@
 	- Sqlserver example
 	- Ssl example
 	- Websocket example
-	- X11 desktop application example
 ## Build
 None
 ## Framework

@@ -29,7 +29,6 @@
 	- Vaadin example
 	- Websocket example
 	- Wicket framework example
-	- X11 desktop application example
 ## Build
 [Bazel](https://github.com/bearddan2000?tab=repositories&q=groovy+bazel&type=&language=&sort=) | [Graalvm](https://github.com/bearddan2000?tab=repositories&q=groovy+graalvm&type=&language=&sort=) | [Gradle](https://github.com/bearddan2000?tab=repositories&q=groovy+gradle&type=&language=&sort=) | [Grape](https://github.com/bearddan2000?tab=repositories&q=groovy+grape&type=&language=&sort=) | [Maven](https://github.com/bearddan2000?tab=repositories&q=groovy+maven&type=&language=&sort=)
 ## Framework

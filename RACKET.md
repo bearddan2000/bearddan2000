@@ -1,9 +1,9 @@
-# Lfe
+# Racket
 
 ## Type
-	- oop
+	- function
 ## Much Like
-[Cpp](CPP.md)
+[Java](JAVA.md) | [Lisp](LISP.md) | [Python](PYTHON.md)
 ## Platform
 	- cli
 ## Todo

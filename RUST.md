@@ -1,6 +1,7 @@
 # Rust
 
 ## Type
+	- function
 	- oop
 ## Much Like
 [Golang](GOLANG.md)
@@ -20,7 +21,6 @@
 	- Sqlserver example
 	- Ssl example
 	- Websocket example
-	- X11 desktop application example
 ## Build
 [Buck2Build](https://github.com/bearddan2000?tab=repositories&q=rust+buck2build&type=&language=&sort=) | [Cargo](https://github.com/bearddan2000?tab=repositories&q=rust+cargo&type=&language=&sort=) | [Rustup](https://github.com/bearddan2000?tab=repositories&q=rust+rustup&type=&language=&sort=)
 ## Framework

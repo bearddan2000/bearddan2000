@@ -1,9 +1,10 @@
-# Lfe
+# Moonscript
 
 ## Type
 	- oop
+	- procedural
 ## Much Like
-[Cpp](CPP.md)
+[Coffeescript](COFFEESCRIPT.md) | [Lua](LUA.md)
 ## Platform
 	- cli
 ## Todo

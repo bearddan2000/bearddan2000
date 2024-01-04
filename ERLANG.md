@@ -10,7 +10,6 @@
 	- Mysql example
 	- Opengl example
 	- Oracle example
-	- X11 desktop application example
 ## Build
 None
 ## Framework

@@ -24,7 +24,6 @@
 	- Ssl example
 	- Web page example
 	- Websocket example
-	- X11 desktop application example
 ## Build
 None
 ## Framework

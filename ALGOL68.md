@@ -1,9 +1,9 @@
-# Lfe
+# Algol68
 
 ## Type
-	- oop
+	- procedural
 ## Much Like
-[Cpp](CPP.md)
+[](.md)
 ## Platform
 	- cli
 ## Todo

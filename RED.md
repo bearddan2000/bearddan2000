@@ -1,11 +1,12 @@
-# Lfe
+# Red
 
 ## Type
-	- oop
+	- procedural
 ## Much Like
-[Cpp](CPP.md)
+[Rebol](REBOL.md)
 ## Platform
 	- cli
+	- desktop
 ## Todo
 	- Atkins sieve example
 	- Mysql example
@@ -16,6 +17,7 @@
 	- Sieve of eroth example
 	- Sieve seg example
 	- Sqlserver example
+	- X11 desktop application example
 ## Build
 None
 ## Framework
