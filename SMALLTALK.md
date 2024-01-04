@@ -1,12 +1,12 @@
 # Smalltalk
 
-## Type
+## Type <i style='color:green;'>1</i>
 	- oop
-## Much Like
+## Much Like <i style='color:green;'>1</i>
 [Clang](CLANG.md)
-## Platform
+## Platform <i style='color:green;'>1</i>
 	- cli
-## Todo
+## Todo <i style='color:green;'>10</i>
 	- Atkins sieve example
 	- Mysql example
 	- Opengl example
@@ -17,9 +17,9 @@
 	- Sieve seg example
 	- Sqlserver example
 	- Squeak web framework example
-## Build
+## Build <i style='color:green;'>0</i>
 None
-## Framework
+## Framework <i style='color:green;'>0</i>
 None
-## Database
+## Database <i style='color:green;'>0</i>
 None

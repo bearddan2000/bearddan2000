@@ -1,13 +1,13 @@
 # Javascript
 
-## Type
+## Type <i style='color:green;'>2</i>
 	- oop
 	- procedural
-## Much Like
+## Much Like <i style='color:green;'>1</i>
 [Cpp](CPP.md)
-## Platform
+## Platform <i style='color:green;'>1</i>
 	- web
-## Todo
+## Todo <i style='color:green;'>9</i>
 	- Basic auth example
 	- Cors example
 	- Oracle example
@@ -17,9 +17,9 @@
 	- Sqlserver example
 	- Ssl example
 	- Websocket example
-## Build
+## Build <i style='color:green;'>0</i>
 None
-## Framework
+## Framework <i style='color:green;'>8</i>
 [Chart](https://github.com/bearddan2000?tab=repositories&q=javascript+chart&type=&language=&sort=) | [D3](https://github.com/bearddan2000?tab=repositories&q=javascript+d3&type=&language=&sort=) | [Handlebars](https://github.com/bearddan2000?tab=repositories&q=javascript+handlebars&type=&language=&sort=) | [Htmx](https://github.com/bearddan2000?tab=repositories&q=javascript+htmx&type=&language=&sort=) | [Jquery](https://github.com/bearddan2000?tab=repositories&q=javascript+jquery&type=&language=&sort=) | [Knuckles](https://github.com/bearddan2000?tab=repositories&q=javascript+knuckles&type=&language=&sort=) | [Mustache](https://github.com/bearddan2000?tab=repositories&q=javascript+mustache&type=&language=&sort=) | [Three](https://github.com/bearddan2000?tab=repositories&q=javascript+three&type=&language=&sort=)
-## Database
+## Database <i style='color:green;'>1</i>
 [Gun](https://github.com/bearddan2000?tab=repositories&q=javascript+gun&type=&language=&sort=)

@@ -1,14 +1,14 @@
 # Rust
 
-## Type
+## Type <i style='color:green;'>2</i>
 	- function
 	- oop
-## Much Like
+## Much Like <i style='color:green;'>1</i>
 [Golang](GOLANG.md)
-## Platform
+## Platform <i style='color:green;'>2</i>
 	- cli
 	- web
-## Todo
+## Todo <i style='color:green;'>12</i>
 	- API example
 	- Basic auth example
 	- Cors example
@@ -21,9 +21,9 @@
 	- Sqlserver example
 	- Ssl example
 	- Websocket example
-## Build
+## Build <i style='color:green;'>3</i>
 [Buck2Build](https://github.com/bearddan2000?tab=repositories&q=rust+buck2build&type=&language=&sort=) | [Cargo](https://github.com/bearddan2000?tab=repositories&q=rust+cargo&type=&language=&sort=) | [Rustup](https://github.com/bearddan2000?tab=repositories&q=rust+rustup&type=&language=&sort=)
-## Framework
+## Framework <i style='color:green;'>2</i>
 [Disel](https://github.com/bearddan2000?tab=repositories&q=rust+disel&type=&language=&sort=) | [Rocket](https://github.com/bearddan2000?tab=repositories&q=rust+rocket&type=&language=&sort=)
-## Database
+## Database <i style='color:green;'>0</i>
 None

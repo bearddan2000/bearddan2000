@@ -1,14 +1,14 @@
 # Swift
 
-## Type
+## Type <i style='color:green;'>2</i>
 	- function
 	- oop
-## Much Like
+## Much Like <i style='color:green;'>1</i>
 [Cpp](CPP.md)
-## Platform
+## Platform <i style='color:green;'>2</i>
 	- cli
 	- web
-## Todo
+## Todo <i style='color:green;'>11</i>
 	- Basic auth example
 	- Cors example
 	- Mysql example
@@ -20,9 +20,9 @@
 	- Sqlserver example
 	- Ssl example
 	- Websocket example
-## Build
+## Build <i style='color:green;'>0</i>
 None
-## Framework
+## Framework <i style='color:green;'>0</i>
 None
-## Database
+## Database <i style='color:green;'>0</i>
 None

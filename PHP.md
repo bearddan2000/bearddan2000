@@ -1,13 +1,13 @@
 # Php
 
-## Type
+## Type <i style='color:green;'>2</i>
 	- oop
 	- procedural
-## Much Like
+## Much Like <i style='color:green;'>1</i>
 [Clang](CLANG.md)
-## Platform
+## Platform <i style='color:green;'>1</i>
 	- web
-## Todo
+## Todo <i style='color:green;'>8</i>
 	- Basic auth example
 	- Cors example
 	- Oracle example
@@ -16,9 +16,9 @@
 	- Sqlserver example
 	- Ssl example
 	- Websocket example
-## Build
+## Build <i style='color:green;'>1</i>
 [Composer](https://github.com/bearddan2000?tab=repositories&q=php+composer&type=&language=&sort=)
-## Framework
+## Framework <i style='color:green;'>1</i>
 [Symfony](https://github.com/bearddan2000?tab=repositories&q=php+symfony&type=&language=&sort=)
-## Database
+## Database <i style='color:green;'>2</i>
 [Dolt](https://github.com/bearddan2000?tab=repositories&q=php+dolt&type=&language=&sort=) | [Mysql](https://github.com/bearddan2000?tab=repositories&q=php+mysql&type=&language=&sort=)

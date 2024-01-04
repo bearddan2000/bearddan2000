@@ -1,13 +1,13 @@
 # Vbnet
 
-## Type
+## Type <i style='color:green;'>1</i>
 	- oop
-## Much Like
+## Much Like <i style='color:green;'>2</i>
 [Basic](BASIC.md) | [Csharp](CSHARP.md)
-## Platform
+## Platform <i style='color:green;'>2</i>
 	- cli
 	- web
-## Todo
+## Todo <i style='color:green;'>13</i>
 	- Basic auth example
 	- Cors example
 	- Mysql example
@@ -21,9 +21,9 @@
 	- Sqlserver example
 	- Ssl example
 	- Websocket example
-## Build
+## Build <i style='color:green;'>1</i>
 [Nget](https://github.com/bearddan2000?tab=repositories&q=vbnet+nget&type=&language=&sort=)
-## Framework
+## Framework <i style='color:green;'>4</i>
 [Asp.Net](https://github.com/bearddan2000?tab=repositories&q=vbnet+asp.net&type=&language=&sort=) | [Entity](https://github.com/bearddan2000?tab=repositories&q=vbnet+entity&type=&language=&sort=) | [Linq](https://github.com/bearddan2000?tab=repositories&q=vbnet+linq&type=&language=&sort=) | [Linqsql](https://github.com/bearddan2000?tab=repositories&q=vbnet+linqsql&type=&language=&sort=)
-## Database
+## Database <i style='color:green;'>0</i>
 None

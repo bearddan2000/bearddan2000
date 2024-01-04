@@ -1,12 +1,12 @@
 # Dart
 
-## Type
+## Type <i style='color:green;'>1</i>
 	- oop
-## Much Like
+## Much Like <i style='color:green;'>1</i>
 [Javascript](JAVASCRIPT.md)
-## Platform
+## Platform <i style='color:green;'>1</i>
 	- web
-## Todo
+## Todo <i style='color:green;'>10</i>
 	- Basic auth example
 	- Cors example
 	- Mysql example
@@ -17,9 +17,9 @@
 	- Sqlserver example
 	- Ssl example
 	- Websocket example
-## Build
+## Build <i style='color:green;'>0</i>
 None
-## Framework
+## Framework <i style='color:green;'>1</i>
 [Flutter](https://github.com/bearddan2000?tab=repositories&q=dart+flutter&type=&language=&sort=)
-## Database
+## Database <i style='color:green;'>0</i>
 None

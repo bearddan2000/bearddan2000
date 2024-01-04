@@ -1,13 +1,13 @@
 # Lisp
 
-## Type
+## Type <i style='color:green;'>1</i>
 	- procedural
-## Much Like
+## Much Like <i style='color:green;'>1</i>
 [Clang](CLANG.md)
-## Platform
+## Platform <i style='color:green;'>2</i>
 	- cli
 	- web
-## Todo
+## Todo <i style='color:green;'>15</i>
 	- Atkins sieve example
 	- Basic auth example
 	- Cors example
@@ -23,9 +23,9 @@
 	- Sqlserver example
 	- Ssl example
 	- Websocket example
-## Build
+## Build <i style='color:green;'>0</i>
 None
-## Framework
+## Framework <i style='color:green;'>0</i>
 None
-## Database
+## Database <i style='color:green;'>0</i>
 None
