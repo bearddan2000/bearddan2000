@@ -1,13 +1,13 @@
-# Apl
+# Beef
 
-## Type <i style='color:green;'>2</i>
-	- array
-	- function
-## Much Like <i style='color:green;'>1</i>
-[Haskell](HASKELL.md)
-## Platform <i style='color:green;'>1</i>
+## Type <i style='color:green;'>1</i>
+	- oop
+## Much Like <i style='color:green;'>2</i>
+[Clang](CLANG.md) | [Csharp](CSHARP.md)
+## Platform <i style='color:green;'>2</i>
 	- cli
-## Todo <i style='color:green;'>9</i>
+	- desktop
+## Todo <i style='color:green;'>10</i>
 	- Atkins sieve example
 	- Mysql example
 	- Opengl example
@@ -17,6 +17,7 @@
 	- Sieve of eroth example
 	- Sieve seg example
 	- Sqlserver example
+	- X11 desktop application example
 ## Build <i style='color:green;'>0</i>
 None
 ## Framework <i style='color:green;'>0</i>

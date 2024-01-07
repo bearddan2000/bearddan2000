@@ -1,22 +1,23 @@
-# Apl
+# Opa
 
 ## Type <i style='color:green;'>2</i>
-	- array
 	- function
-## Much Like <i style='color:green;'>1</i>
-[Haskell](HASKELL.md)
+	- procedural
+## Much Like <i style='color:green;'>2</i>
+[Nodejs](NODEJS.md) | [Ocaml](OCAML.md)
 ## Platform <i style='color:green;'>1</i>
-	- cli
-## Todo <i style='color:green;'>9</i>
-	- Atkins sieve example
+	- web
+## Todo <i style='color:green;'>10</i>
+	- Basic auth example
+	- Cors example
 	- Mysql example
-	- Opengl example
 	- Oracle example
-	- Pascal triangle example
 	- Postgres example
-	- Sieve of eroth example
-	- Sieve seg example
+	- Selenium example
+	- Server side event example
 	- Sqlserver example
+	- Ssl example
+	- Websocket example
 ## Build <i style='color:green;'>0</i>
 None
 ## Framework <i style='color:green;'>0</i>

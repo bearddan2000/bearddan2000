@@ -1,10 +1,9 @@
-# Apl
+# Wren
 
-## Type <i style='color:green;'>2</i>
-	- array
-	- function
-## Much Like <i style='color:green;'>1</i>
-[Haskell](HASKELL.md)
+## Type <i style='color:green;'>1</i>
+	- oop
+## Much Like <i style='color:green;'>2</i>
+[Java](JAVA.md) | [Python](PYTHON.md)
 ## Platform <i style='color:green;'>1</i>
 	- cli
 ## Todo <i style='color:green;'>9</i>
