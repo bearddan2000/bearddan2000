@@ -24,3 +24,6 @@ None
 None
 ## Database <i style='color:green;'>0</i>
 None
+## Credit <i style='color:green;'>2</i>
+	- [Binary](https://www.red-lang.org/p/download.html)
+	- [Examples](https://therenegadecoder.com/code/hello-world-in-red/)

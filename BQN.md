@@ -23,3 +23,6 @@ None
 None
 ## Database <i style='color:green;'>0</i>
 None
+## Credit <i style='color:green;'>2</i>
+	- [Binary](https://github.com/dzaima/CBQN)
+	- [Examples](https://mlochbaum.github.io/BQN/doc/quick.html)

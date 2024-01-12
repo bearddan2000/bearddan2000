@@ -25,3 +25,5 @@
 [Rails](https://github.com/bearddan2000?tab=repositories&q=ruby+rails&type=&language=&sort=) | [Sinatra](https://github.com/bearddan2000?tab=repositories&q=ruby+sinatra&type=&language=&sort=)
 ## Database <i style='color:green;'>0</i>
 None
+## Credit <i style='color:green;'>0</i>
+None

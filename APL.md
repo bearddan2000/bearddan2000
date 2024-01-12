@@ -23,3 +23,6 @@ None
 None
 ## Database <i style='color:green;'>0</i>
 None
+## Credit <i style='color:green;'>2</i>
+	- [Debian Packages](https://installati.one/install-aplus-fsf-ubuntu-20-04/)
+	- [Examples](http://groups.umd.umich.edu/cis/course.des/cis400/apl/hworld.html)

@@ -30,8 +30,21 @@ Name | Alpine | Archlinux | Centos | Debian | Fedora | Opensuse | Ubuntu
 ### Package
 Name | Appimage | Flatpak | Nix | Snap
 ---- | -------- | ------- | --- | ----
-
-### Type
+[Audacity](https://github.com/bearddan2000?tab=repositories&q=audacity&type=&language=&sort=) | - | - | X | -
+[Brackets](https://github.com/bearddan2000?tab=repositories&q=brackets&type=&language=&sort=) | - | - | - | X
+[Codeblocks](https://github.com/bearddan2000?tab=repositories&q=codeblocks&type=&language=&sort=) | - | - | X | -
+[Dbeaver](https://github.com/bearddan2000?tab=repositories&q=dbeaver&type=&language=&sort=) | - | - | X | -
+[Emacs](https://github.com/bearddan2000?tab=repositories&q=emacs&type=&language=&sort=) | - | - | X | -
+[Gimp](https://github.com/bearddan2000?tab=repositories&q=gimp&type=&language=&sort=) | X | X | X | -
+[Helix](https://github.com/bearddan2000?tab=repositories&q=helix&type=&language=&sort=) | - | - | X | -
+[Lazarus](https://github.com/bearddan2000?tab=repositories&q=lazarus&type=&language=&sort=) | - | - | X | -
+[Neovim](https://github.com/bearddan2000?tab=repositories&q=neovim&type=&language=&sort=) | - | - | X | -
+[Netbeans](https://github.com/bearddan2000?tab=repositories&q=netbeans&type=&language=&sort=) | - | - | X | -
+[Putty](https://github.com/bearddan2000?tab=repositories&q=putty&type=&language=&sort=) | - | - | X | -
+[Sqlitebrowser](https://github.com/bearddan2000?tab=repositories&q=sqlitebrowser&type=&language=&sort=) | - | - | X | -
+[Vscode](https://github.com/bearddan2000?tab=repositories&q=vscode&type=&language=&sort=) | - | - | - | X
+[Wireshark](https://github.com/bearddan2000?tab=repositories&q=wireshark&type=&language=&sort=) | - | - | X | -
+### _Type
 Name | Graphics | Text Editor | Browser | Ide | Database | Network | Visual Language Builder
 ---- | -------- | ----------- | ------- | --- | -------- | ------- | -----------------------
 [Audacity](https://github.com/bearddan2000?tab=repositories&q=audacity&type=&language=&sort=) | X | - | - | - | - | - | -

@@ -24,3 +24,6 @@ None
 None
 ## Database <i style='color:green;'>0</i>
 None
+## Credit <i style='color:green;'>2</i>
+	- [Docker Image](https://github.com/rzuckerm/opa-docker-image.git)
+	- [Examples](https://therenegadecoder.com/code/hello-world-in-opa/)

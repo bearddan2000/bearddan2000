@@ -24,3 +24,6 @@ None
 None
 ## Database <i style='color:green;'>0</i>
 None
+## Credit <i style='color:green;'>2</i>
+	- [Binary](https://github.com/beefytech/Beef)
+	- [Docker Image](https://github.com/rzuckerm/beef-docker-images.git)

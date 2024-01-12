@@ -27,3 +27,5 @@
 [Disel](https://github.com/bearddan2000?tab=repositories&q=rust+disel&type=&language=&sort=) | [Rocket](https://github.com/bearddan2000?tab=repositories&q=rust+rocket&type=&language=&sort=)
 ## Database <i style='color:green;'>0</i>
 None
+## Credit <i style='color:green;'>0</i>
+None

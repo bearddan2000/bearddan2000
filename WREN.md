@@ -22,3 +22,7 @@ None
 None
 ## Database <i style='color:green;'>0</i>
 None
+## Credit <i style='color:green;'>3</i>
+	- [Binary](https://github.com/wren-lang/wren_cli)
+	- [Example](https://therenegadecoder.com/code/hello-world-in-wren/)
+	- [Examples](https://wren.io)

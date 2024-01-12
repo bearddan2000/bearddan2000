@@ -16,9 +16,11 @@
 	- Sieve of eroth example
 	- Sieve seg example
 	- Sqlserver example
-## Build <i style='color:green;'>1</i>
-[Buck2Build](https://github.com/bearddan2000?tab=repositories&q=haskell+buck2build&type=&language=&sort=)
+## Build <i style='color:green;'>3</i>
+[Buck2Build](https://github.com/bearddan2000?tab=repositories&q=haskell+buck2build&type=&language=&sort=) | [Cable](https://github.com/bearddan2000?tab=repositories&q=haskell+cable&type=&language=&sort=) | [Ghc](https://github.com/bearddan2000?tab=repositories&q=haskell+ghc&type=&language=&sort=)
 ## Framework <i style='color:green;'>0</i>
 None
 ## Database <i style='color:green;'>0</i>
+None
+## Credit <i style='color:green;'>0</i>
 None
