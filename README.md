@@ -14,5 +14,10 @@
 | [v2.0.0](https://github.com/bearddan2000/java-web-gradle-spring-thyme-dropwizard-github) | | |
 | [v3.0.0](https://github.com/bearddan2000/java-web-gradle-spring-thyme-dropwizard-postgres-github) |
 
+### Showcase projects
+| python |
+| ------ |
+| [ timmy ](https://github.com/bearddan2000/python-web-timmy-morning-report.git) |
+
 ### Menu Items
 [Build Tools](BUILD.md) | [Databases](DATABASE.md) | [Desktop Application](DESKTOP.md) | [Languages](LANGUAGE.md)
