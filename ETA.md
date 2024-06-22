@@ -1,10 +1,9 @@
-# Gosu
+# Eta
 
-## Type <i style='color:green;'>2</i>
-	- oop
-	- procedural
+## Type <i style='color:green;'>1</i>
+	- function
 ## Much Like <i style='color:green;'>2</i>
-[Groovy](GROOVY.md) | [Java./](JAVA./.md)
+[Haskell](HASKELL.md) | [Java](JAVA.md)
 ## Platform <i style='color:green;'>1</i>
 	- cli
 ## Todo <i style='color:green;'>9</i>
@@ -23,5 +22,6 @@ None
 None
 ## Database <i style='color:green;'>0</i>
 None
-## Credit <i style='color:green;'>1</i>
-	- [Docker Image](https://github.com/rzuckerm/gosu-docker-images.git)
+## Credit <i style='color:green;'>2</i>
+	- [Binary](https://github.com/typelead/eta)
+	- [Docker Image](https://github.com/typelead/eta)

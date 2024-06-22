@@ -1,13 +1,14 @@
-# Gosu
+# Agda
 
 ## Type <i style='color:green;'>2</i>
-	- oop
+	- function
 	- procedural
 ## Much Like <i style='color:green;'>2</i>
-[Groovy](GROOVY.md) | [Java./](JAVA./.md)
-## Platform <i style='color:green;'>1</i>
+[Haskell](HASKELL.md) | [Python](PYTHON.md)
+## Platform <i style='color:green;'>2</i>
 	- cli
-## Todo <i style='color:green;'>9</i>
+	- desktop
+## Todo <i style='color:green;'>10</i>
 	- Atkins sieve example
 	- Mysql example
 	- Opengl example
@@ -17,6 +18,7 @@
 	- Sieve of eroth example
 	- Sieve seg example
 	- Sqlserver example
+	- X11 desktop application example
 ## Build <i style='color:green;'>0</i>
 None
 ## Framework <i style='color:green;'>0</i>
@@ -24,4 +26,4 @@ None
 ## Database <i style='color:green;'>0</i>
 None
 ## Credit <i style='color:green;'>1</i>
-	- [Docker Image](https://github.com/rzuckerm/gosu-docker-images.git)
+	- [Docker Image](https://github.com/rzuckerm/agda-docker-images.git)
