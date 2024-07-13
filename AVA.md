@@ -1,9 +1,10 @@
-# Algol68
+# Ava
 
-## Type <i style='color:green;'>1</i>
-	- procedural
+## Type <i style='color:green;'>2</i>
+	- function
+	- stack
 ## Much Like <i style='color:green;'>1</i>
-[Scheme](SCHEME.md)
+[Python](PYTHON.md)
 ## Platform <i style='color:green;'>1</i>
 	- cli
 ## Todo <i style='color:green;'>9</i>
@@ -22,5 +23,5 @@ None
 None
 ## Database <i style='color:green;'>0</i>
 None
-## Credit <i style='color:green;'>0</i>
-None
+## Credit <i style='color:green;'>1</i>
+	- [Binary](https://github.com/owainlewis/ava.git)

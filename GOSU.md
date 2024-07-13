@@ -4,7 +4,7 @@
 	- oop
 	- procedural
 ## Much Like <i style='color:green;'>2</i>
-[Groovy](GROOVY.md) | [Java./](JAVA./.md)
+[Groovy](GROOVY.md) | [Java](JAVA.md)
 ## Platform <i style='color:green;'>1</i>
 	- cli
 ## Todo <i style='color:green;'>9</i>

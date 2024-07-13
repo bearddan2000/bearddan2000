@@ -1,4 +1,4 @@
-# Algol68
+# Gambit
 
 ## Type <i style='color:green;'>1</i>
 	- procedural

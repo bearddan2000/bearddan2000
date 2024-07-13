@@ -1,9 +1,10 @@
-# Algol68
+# Golo
 
-## Type <i style='color:green;'>1</i>
+## Type <i style='color:green;'>2</i>
+	- oop
 	- procedural
-## Much Like <i style='color:green;'>1</i>
-[Scheme](SCHEME.md)
+## Much Like <i style='color:green;'>2</i>
+[Groovy](GROOVY.md) | [Java](JAVA.md)
 ## Platform <i style='color:green;'>1</i>
 	- cli
 ## Todo <i style='color:green;'>9</i>
@@ -22,5 +23,6 @@ None
 None
 ## Database <i style='color:green;'>0</i>
 None
-## Credit <i style='color:green;'>0</i>
-None
+## Credit <i style='color:green;'>2</i>
+	- [Examples](https://github.com/eclipse-archived/golo-lang.git)
+	- [Gradle Plugin Run Example](https://github.com/erdi/gradle-golo-plugin-example.git)

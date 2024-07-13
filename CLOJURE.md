@@ -31,7 +31,7 @@
 [Maven](https://github.com/bearddan2000?tab=repositories&q=clojure+maven&type=&language=&sort=)
 ## Framework <i style='color:green;'>0</i>
 None
-## Database <i style='color:green;'>0</i>
-None
+## Database <i style='color:green;'>1</i>
+[Influx](https://github.com/bearddan2000?tab=repositories&q=clojure+influx&type=&language=&sort=)
 ## Credit <i style='color:green;'>0</i>
 None

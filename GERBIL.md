@@ -1,4 +1,4 @@
-# Algol68
+# Gerbil
 
 ## Type <i style='color:green;'>1</i>
 	- procedural
@@ -22,5 +22,7 @@ None
 None
 ## Database <i style='color:green;'>0</i>
 None
-## Credit <i style='color:green;'>0</i>
-None
+## Credit <i style='color:green;'>3</i>
+	- [Binary](https://github.com/mighty-gerbils/gerbil.git)
+	- [Docker Image](https://hub.docker.com/r/gerbil/gerbilxx#!)
+	- [Run Example](https://cons.io/guide/intro.html#hello-world)
