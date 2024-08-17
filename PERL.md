@@ -19,8 +19,8 @@
 	- Sqlserver example
 	- Ssl example
 	- Websocket example
-## Build <i style='color:green;'>0</i>
-None
+## Build <i style='color:green;'>1</i>
+[Bazel](https://github.com/bearddan2000?tab=repositories&q=perl+bazel&type=&language=&sort=)
 ## Framework <i style='color:green;'>0</i>
 None
 ## Database <i style='color:green;'>0</i>

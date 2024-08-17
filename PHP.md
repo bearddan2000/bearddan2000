@@ -16,8 +16,8 @@
 	- Sqlserver example
 	- Ssl example
 	- Websocket example
-## Build <i style='color:green;'>1</i>
-[Composer](https://github.com/bearddan2000?tab=repositories&q=php+composer&type=&language=&sort=)
+## Build <i style='color:green;'>2</i>
+[Bazel](https://github.com/bearddan2000?tab=repositories&q=php+bazel&type=&language=&sort=) | [Composer](https://github.com/bearddan2000?tab=repositories&q=php+composer&type=&language=&sort=)
 ## Framework <i style='color:green;'>1</i>
 [Symfony](https://github.com/bearddan2000?tab=repositories&q=php+symfony&type=&language=&sort=)
 ## Database <i style='color:green;'>2</i>
