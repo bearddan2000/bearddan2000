@@ -6,6 +6,7 @@
 - 👀 I’m interested in languages (human or computer), build systems, and databases.
 - 🌱 I’m currently learning machine learning with the hope to classify the names of my repos as a dataset.
 - 💞️ I’m looking to collaborate on web projects.
-- 📫 How to reach me, via facebook handle 'bearddan2000'
-- A dashboard of all my repos 
-    - *Most repos use Docker with bash control script*
+- 📫 How to reach me:
+    - Facebook handle 'bearddan2000'
+    - Youtube channel 'BrokenKeys-r3d'
+- *Most repos use Docker with bash control script*

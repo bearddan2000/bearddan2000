@@ -16,4 +16,4 @@
 - [buildr springboot](https://github.com/bearddan2000/java-cli-buildr-spring-trans-dep-hello-world.git)
 
 ## Languages
-| Ada | Agda |
+| Ada | Agda | Algol68 | Gravity | Idris | Io | Lily | Roff | Zuo |
