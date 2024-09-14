@@ -10,12 +10,11 @@
 	- cli
 	- desktop
 	- web
-## Todo <i style='color:green;'>12</i>
+## Todo <i style='color:green;'>11</i>
 	- Basic auth example
 	- Cors example
 	- Opengl example
 	- Oracle example
-	- Pascal triangle example
 	- Postgres example
 	- Ravendb example
 	- Selenium example
